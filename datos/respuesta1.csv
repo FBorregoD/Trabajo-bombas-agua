@@ -1,0 +1,9472 @@
+id,status_group
+3402,functional
+14136,non functional
+5702,functional
+11739,non functional
+785,functional
+6376,functional
+405,functional
+114,functional
+5869,functional
+4105,non functional
+53,non functional
+6433,non functional
+3463,non functional
+8679,functional
+10067,functional
+3121,functional
+5965,functional
+9604,non functional
+14655,functional
+4635,non functional
+12301,functional
+10174,non functional
+7166,functional
+3535,functional
+11581,functional
+10396,functional
+3640,functional
+12658,functional
+12180,functional
+12478,functional
+14222,functional
+11736,non functional
+4270,non functional
+14407,functional
+10811,non functional
+1588,functional
+9724,functional
+7686,functional
+9338,functional
+5109,non functional
+8085,functional
+9144,functional
+11536,non functional
+12589,functional
+12083,functional
+8937,functional
+9708,non functional
+11456,functional
+876,functional
+7744,non functional
+5559,functional
+6411,non functional
+11972,functional
+8855,functional
+4051,functional
+2048,functional
+13515,functional
+14074,non functional
+13368,functional
+1402,non functional
+12387,functional
+14706,non functional
+7832,non functional
+6491,non functional
+10224,functional
+2555,functional
+1024,non functional
+1897,non functional
+5042,functional
+2370,functional
+1390,non functional
+10766,functional
+870,functional
+7993,functional
+8588,functional
+2191,functional
+11192,functional
+8867,functional
+2556,functional
+6684,non functional
+10,functional
+8907,non functional
+11655,functional
+11764,non functional
+13906,functional
+5932,functional
+4696,functional
+13036,functional
+8163,functional
+12401,functional
+4810,functional
+7255,non functional
+8120,non functional
+13096,non functional
+7759,non functional
+4840,non functional
+1772,functional
+1810,functional
+10349,functional
+10680,functional
+10471,non functional
+10794,non functional
+6029,functional
+2197,functional
+5988,non functional
+12905,functional
+6011,non functional
+11348,non functional
+5849,non functional
+10853,non functional
+420,functional
+3784,non functional
+12007,non functional
+6410,functional
+12771,functional
+3572,functional
+12,non functional
+12134,non functional
+981,non functional
+13828,functional
+7707,non functional
+3669,functional
+4677,non functional
+12018,functional
+37,functional
+8403,functional needs repair
+172,functional
+9894,non functional
+11796,functional
+13042,non functional
+11063,functional
+14301,functional
+11257,functional
+14602,functional
+8642,non functional
+9946,non functional
+9631,non functional
+3072,non functional
+3898,functional
+6884,functional
+13934,functional
+12777,non functional
+1363,non functional
+14356,non functional
+8612,non functional
+11523,functional
+8580,non functional
+6319,functional
+7765,functional
+13147,functional
+1512,functional
+12827,non functional
+11614,functional
+9117,non functional
+6131,non functional
+11407,functional needs repair
+8287,functional
+2113,functional
+12070,non functional
+3850,functional
+7070,functional
+3453,functional
+5655,functional needs repair
+14485,non functional
+13907,non functional
+13687,functional
+14389,non functional
+1339,functional
+5145,functional
+4595,non functional
+10240,non functional
+12206,functional
+14605,functional
+1313,functional
+12381,functional
+13037,functional
+13106,functional
+557,functional
+13380,functional
+9124,functional
+13186,functional
+5774,non functional
+11250,non functional
+12488,non functional
+14239,functional
+637,functional
+12159,functional
+3477,functional
+888,functional
+2355,functional
+13852,non functional
+5432,non functional
+11818,non functional
+6378,non functional
+5513,non functional
+3685,functional
+11491,non functional
+13187,non functional
+12244,functional
+9221,functional
+3144,functional
+6389,functional
+8204,functional
+11110,functional
+7458,functional
+10850,functional
+9706,functional
+13104,non functional
+10805,non functional
+14440,functional
+11786,functional
+5434,non functional
+7718,functional
+4346,non functional
+12346,functional
+12057,functional
+6783,non functional
+5292,functional
+5188,functional
+10289,functional
+2433,non functional
+11183,non functional
+8940,functional
+8208,functional
+3229,functional
+3512,functional
+6198,functional
+2656,functional
+2426,functional
+5301,functional
+9446,functional
+1655,functional
+918,non functional
+662,functional needs repair
+6213,non functional
+3224,functional
+4747,functional
+13611,functional
+2110,non functional
+8234,non functional
+7648,functional
+2497,functional
+14818,functional
+4834,non functional
+5377,functional
+3027,functional
+6733,functional
+14441,functional
+10549,functional
+6012,non functional
+14496,functional
+4850,non functional
+7168,functional
+3153,functional
+14209,functional
+5031,functional
+5454,functional
+11697,functional
+5200,non functional
+9360,functional
+13636,functional
+6723,functional
+1752,functional
+13681,non functional
+11197,non functional
+8535,functional
+1832,functional
+13690,non functional
+12068,functional
+6300,non functional
+11898,non functional
+9288,functional
+6072,functional
+2505,functional
+2384,functional
+7727,non functional
+3278,functional
+2420,functional
+1563,non functional
+2181,functional
+7195,functional
+7205,functional
+10117,non functional
+460,functional
+5214,non functional
+3941,non functional
+13510,functional
+4799,functional
+11729,functional
+7459,functional
+2938,non functional
+4715,functional
+2474,functional
+12943,functional
+13259,functional
+8182,non functional
+6601,non functional
+13462,non functional
+11293,functional
+3222,non functional
+1454,functional
+7873,functional
+3960,functional
+9500,non functional
+9983,non functional
+12318,functional
+13550,functional
+81,functional
+1346,functional
+11229,functional
+4217,functional
+8791,functional
+13473,functional
+8929,functional
+6552,non functional
+643,functional
+8858,functional
+7986,functional
+12416,functional
+12475,functional
+46,non functional
+3255,non functional
+8958,functional
+1397,functional
+9576,functional
+3962,functional
+1377,non functional
+6084,functional
+5361,non functional
+14203,functional
+6345,functional
+6270,non functional
+13458,non functional
+6320,functional
+3118,functional
+3064,non functional
+14429,functional
+7602,non functional
+3871,functional
+2933,functional
+9033,functional
+10880,functional
+4218,non functional
+312,functional
+1880,non functional
+5866,functional
+12581,functional
+3662,functional
+1190,non functional
+812,functional
+13172,functional
+13658,functional
+2631,non functional
+515,functional
+4366,functional
+8888,non functional
+6049,functional
+1946,functional
+4089,non functional
+10377,non functional
+3666,non functional
+11168,non functional
+258,functional
+2943,functional
+7125,non functional
+8829,functional
+12317,functional
+10899,functional
+7073,non functional
+7811,non functional
+14521,functional
+6211,non functional
+13247,functional
+3764,functional
+7909,functional needs repair
+10326,non functional
+679,functional
+11864,non functional
+6779,non functional
+8379,functional
+11705,functional
+7233,functional
+5805,functional
+4147,non functional
+12977,non functional
+4449,functional
+12953,non functional
+2877,non functional
+9764,functional
+1626,non functional
+13197,functional
+6180,functional
+7794,non functional
+13086,functional
+1533,functional
+7880,non functional
+2640,functional
+440,functional
+10228,functional
+14189,functional
+14099,non functional
+3183,functional
+7377,functional
+6669,functional
+13841,functional
+1102,non functional
+4639,functional
+14656,functional
+3297,non functional
+6495,non functional
+11881,non functional
+3562,functional
+10425,functional
+14100,functional
+14023,non functional
+10085,functional
+12840,functional
+6775,non functional
+1589,non functional
+9231,functional
+14688,non functional
+5115,functional
+7426,non functional
+874,functional
+9319,functional
+4428,functional
+7671,non functional
+8407,functional
+346,functional
+2567,functional
+6412,non functional
+6959,non functional
+1556,functional
+3939,non functional
+10679,functional
+8861,non functional
+14362,non functional
+7287,non functional
+12558,functional
+5560,functional
+4917,non functional
+4450,functional
+12052,functional
+7238,functional
+1904,functional
+7442,functional
+6885,functional
+7062,non functional
+5332,non functional
+7006,non functional
+6465,functional
+5672,non functional
+2612,non functional
+10669,functional
+13098,functional
+9829,functional
+2221,non functional
+1895,functional
+8342,functional
+7162,functional
+13973,non functional
+716,non functional
+11193,functional
+12397,functional
+7025,functional
+8422,functional
+14620,non functional
+8851,functional
+8129,functional
+5730,functional
+13727,non functional
+8137,functional
+8621,functional
+5329,functional
+1853,functional
+14236,functional
+13624,functional
+1862,non functional
+7282,non functional
+2744,functional
+1277,functional
+14151,functional
+4137,functional
+7617,non functional
+12693,functional
+2168,functional needs repair
+10843,non functional
+3199,functional
+8538,functional
+562,functional
+9401,non functional
+1398,functional
+1479,functional
+9264,non functional
+14048,functional
+7751,functional
+8283,functional
+13853,non functional
+449,functional
+10139,non functional
+14492,functional
+336,functional
+6822,functional
+4003,functional
+6217,functional
+3073,non functional
+9493,functional
+4592,non functional
+12911,functional
+7733,functional
+5342,functional
+12467,functional
+475,non functional
+4510,non functional
+3018,functional
+10426,functional
+971,functional
+5271,functional
+12274,functional
+10124,non functional
+1463,functional
+13338,non functional
+10575,non functional
+4226,functional
+2793,functional
+853,functional
+8293,non functional
+2332,functional
+12384,functional
+2342,functional
+4528,non functional
+12687,functional
+154,functional
+8348,non functional
+162,non functional
+1710,non functional
+14082,functional needs repair
+6421,non functional
+8536,functional
+533,functional
+12176,functional
+12175,functional
+7810,functional needs repair
+2130,functional
+3931,functional
+99,functional needs repair
+9512,non functional
+11311,functional
+13701,non functional
+9023,functional
+3772,non functional
+2511,functional
+11245,non functional
+194,functional
+4471,functional
+6641,non functional
+4106,functional
+636,non functional
+13612,functional
+1381,functional
+9674,non functional
+14577,non functional
+7884,functional
+13245,non functional
+4643,functional
+5986,functional needs repair
+2647,functional
+588,functional
+14755,functional
+11036,functional
+11833,functional
+8107,functional
+7598,functional
+14036,non functional
+12965,functional
+1652,functional
+10260,functional
+1058,functional
+1858,functional
+1368,functional
+5872,functional
+174,functional
+7067,non functional
+7112,functional
+10813,functional
+9132,non functional
+13914,functional
+3510,functional
+188,non functional
+10788,non functional
+9546,functional
+7104,functional
+11672,functional
+1393,functional
+5538,functional
+9155,non functional
+5777,functional
+5690,functional
+222,functional
+1435,functional
+3070,non functional
+11012,functional
+2658,functional
+1471,functional
+12826,functional
+3319,non functional
+2978,functional
+9952,functional
+8698,functional
+2010,functional
+4131,non functional
+10949,functional
+5918,non functional
+13689,functional
+12181,non functional
+12572,functional
+9000,functional
+161,functional
+10054,non functional
+11852,functional
+7344,non functional
+11740,functional
+5626,functional
+8724,non functional
+909,functional
+8528,functional
+14516,non functional
+6193,non functional
+10049,functional
+4107,non functional
+13084,non functional
+2534,non functional
+496,functional
+7295,functional
+10895,non functional
+2494,non functional
+2101,functional
+6431,non functional
+11341,functional
+6531,functional
+1767,functional
+8721,functional
+13860,functional
+9485,functional
+11906,non functional
+10107,functional
+7856,functional needs repair
+13774,non functional
+5024,functional
+7705,functional
+5065,functional needs repair
+6023,non functional
+6394,functional
+11323,non functional
+4913,functional needs repair
+10744,non functional
+9696,non functional
+9879,functional
+14700,non functional
+31,functional
+7974,non functional
+1163,functional
+367,functional
+4350,functional
+6259,functional
+9825,functional
+8557,non functional
+14265,non functional
+6397,functional
+10841,functional
+8975,non functional
+10294,functional
+9050,functional
+2711,functional
+7253,non functional
+9391,functional
+14156,non functional
+11639,functional
+7714,functional
+12616,non functional
+8989,functional
+4637,non functional
+2310,functional
+5001,non functional
+4469,non functional
+9932,functional
+1952,non functional
+9101,non functional
+2638,functional
+1429,functional
+11681,functional
+7207,non functional
+11656,functional
+12900,non functional
+250,functional
+11530,functional
+1404,functional
+13767,functional
+12797,non functional
+8122,non functional
+11249,non functional
+701,functional
+12141,functional
+9616,non functional
+8338,functional needs repair
+1704,functional
+2056,functional
+7524,functional
+9647,non functional
+10654,functional
+11090,functional
+13143,functional
+12933,non functional
+4970,functional
+5638,functional
+1370,functional
+13621,functional
+3008,functional
+12501,functional
+137,functional
+13978,functional
+10057,functional
+1830,functional
+8167,functional
+13926,functional
+2427,functional
+2822,functional
+6215,functional
+12216,non functional
+3009,functional
+6622,functional
+7057,functional
+6519,non functional
+14796,functional
+13698,functional
+4383,functional
+2453,functional needs repair
+520,non functional
+8604,functional
+903,functional
+10210,functional
+8669,non functional
+12054,functional
+1590,functional
+13755,functional
+8202,functional
+7349,functional
+7366,functional
+10479,functional
+8797,functional
+4668,functional
+10718,functional
+1805,functional
+7586,non functional
+3921,functional
+1587,functional needs repair
+7193,functional
+3452,non functional
+2286,functional
+3016,non functional
+448,functional
+4387,non functional
+5402,non functional
+14793,functional
+10740,functional
+10965,functional
+13353,functional
+13999,non functional
+8467,non functional
+10721,functional
+212,functional
+3732,functional
+7734,non functional
+268,functional
+8059,non functional
+12732,functional
+5924,non functional
+4662,non functional
+2030,non functional
+12779,functional
+9822,non functional
+502,non functional
+14006,non functional
+2521,functional
+5769,functional
+3585,functional
+12370,non functional
+7310,functional
+1029,non functional
+12247,functional
+5837,non functional
+4461,functional
+9276,non functional
+1376,functional
+1133,non functional
+6856,non functional
+1666,functional
+11381,functional
+10770,functional
+4969,functional
+6435,non functional
+2950,functional
+10737,non functional
+3638,non functional
+3169,functional
+331,functional
+1789,non functional
+14668,functional
+7486,functional
+2533,non functional
+8021,functional
+11688,functional
+1063,functional
+9039,non functional
+2969,functional
+830,functional
+2321,functional
+13980,functional
+12081,functional
+3012,functional
+14028,non functional
+11811,non functional
+5207,functional
+7153,non functional
+4073,non functional
+108,functional
+1261,non functional
+13882,functional
+9523,functional
+12885,non functional
+9213,functional
+8360,functional
+14148,functional
+4736,non functional
+396,functional
+6900,functional
+7388,non functional
+5803,functional
+7731,functional
+10818,non functional
+2794,functional
+9567,non functional
+2246,non functional
+8356,non functional
+5093,non functional
+11445,functional
+5766,non functional
+2522,functional
+4966,non functional
+5427,functional
+4160,non functional
+1766,non functional
+6657,non functional
+5768,functional
+3859,functional
+8354,functional
+14513,non functional
+783,functional
+14771,functional
+2054,functional
+4330,non functional
+3943,functional
+4015,functional
+2094,functional
+5244,non functional
+3521,functional
+12208,functional
+13392,non functional
+4344,functional
+14702,non functional
+8793,functional
+4683,functional
+13115,non functional
+2466,functional
+5819,functional
+702,functional
+730,functional
+11455,non functional
+8253,non functional
+14626,functional
+2375,non functional
+8146,non functional
+14367,functional
+7225,functional
+14490,functional
+13788,functional
+10066,functional needs repair
+14571,non functional
+3987,functional
+13053,functional
+685,functional
+6738,functional
+1073,functional
+5319,functional
+11011,functional
+8304,functional
+9087,non functional
+7158,functional
+4707,non functional
+7382,non functional
+7164,functional
+11951,functional
+3081,functional
+13833,non functional
+13717,functional
+5552,functional needs repair
+9862,functional
+8034,non functional
+3189,functional
+13885,functional
+13257,functional
+11866,functional
+14072,functional
+9176,functional
+12963,functional
+13511,functional
+7307,functional
+4826,non functional
+9428,functional
+847,functional needs repair
+10630,functional needs repair
+13673,non functional
+7629,functional
+8102,functional
+7397,functional
+4154,functional
+10215,functional
+12590,non functional
+3721,functional
+2998,functional
+12561,functional
+1546,functional
+13478,non functional
+10602,functional
+11006,non functional
+6566,functional
+2114,functional
+9530,functional
+5721,functional needs repair
+14414,non functional
+1071,functional
+11602,non functional
+1906,functional
+10056,functional
+13894,functional
+227,functional
+9640,non functional
+10890,functional
+12736,functional
+12503,functional
+4384,non functional
+9658,functional
+3288,non functional
+11755,functional
+11574,non functional
+1309,functional
+9419,functional
+14261,non functional
+14763,functional
+12982,non functional
+3683,functional
+4535,functional
+8600,functional
+6564,functional
+10391,functional
+12112,functional
+7711,functional
+10790,functional
+14032,non functional
+8351,functional
+7540,non functional
+10007,non functional
+11946,functional
+4275,non functional
+5262,functional needs repair
+12118,functional
+5139,non functional
+11438,functional
+5458,functional
+10882,functional
+14461,functional
+8493,functional needs repair
+11832,functional
+7475,non functional
+8519,functional
+4814,functional
+9860,non functional
+8662,functional
+7002,non functional
+11313,non functional
+14240,functional
+13208,functional
+11624,non functional
+2446,functional
+7777,non functional
+10765,functional
+1080,functional
+4334,functional needs repair
+12029,non functional
+5032,functional
+5172,functional
+3538,non functional
+5657,functional
+10121,functional
+14147,functional
+10468,functional
+1110,functional
+12084,non functional
+9832,non functional
+4067,functional
+9238,functional
+9651,functional
+4074,functional
+8324,functional
+1198,functional
+861,functional
+2002,functional
+11803,functional
+13162,functional
+4251,non functional
+3864,functional
+4322,functional needs repair
+9335,functional
+13685,functional
+6534,non functional
+2499,non functional
+12652,functional
+4091,non functional
+14749,non functional
+6906,functional
+14030,non functional
+4008,non functional
+7742,functional
+5735,non functional
+4496,non functional
+10401,functional
+5451,non functional
+2388,non functional
+11421,non functional
+6747,functional
+2012,non functional
+13584,functional needs repair
+9035,functional
+3281,functional
+14637,functional
+3493,non functional
+10959,non functional
+2630,non functional
+7536,functional
+975,non functional
+9350,functional
+10741,non functional
+12531,functional
+2922,functional
+12405,non functional
+8512,non functional
+6327,functional
+4983,functional
+6755,functional
+5157,functional
+5961,functional
+12609,functional
+3621,functional
+13807,functional
+12234,non functional
+5590,functional
+4642,functional
+675,functional
+11069,functional
+6829,non functional
+5272,non functional
+1708,functional
+7674,non functional
+3803,non functional
+2939,non functional
+4219,functional
+323,functional
+12552,functional
+11623,functional
+4122,functional
+8756,functional
+2617,non functional
+10801,functional
+9890,non functional
+4117,functional
+9281,non functional
+4890,functional
+10063,functional
+6238,non functional
+12676,non functional
+5037,functional
+12033,functional
+6937,functional
+12324,functional
+3682,functional
+2691,non functional
+4348,non functional
+5744,functional needs repair
+3793,functional
+4315,functional
+9466,functional
+14093,non functional
+12398,non functional
+2044,functional
+5050,non functional
+6429,functional
+6051,non functional
+2028,non functional
+1310,non functional
+9332,non functional
+325,functional
+431,non functional
+11767,functional
+11231,functional
+3379,functional
+11901,non functional
+13031,functional
+12359,non functional
+12160,functional
+9556,non functional
+8266,non functional
+12808,non functional
+1443,functional
+10775,functional
+91,non functional
+4990,functional
+4575,non functional
+9826,non functional
+14053,non functional
+5753,functional
+10933,non functional
+10845,functional
+6351,non functional
+219,functional
+5701,functional
+13130,functional
+8130,non functional
+8128,functional
+9305,functional
+8086,functional needs repair
+1374,functional
+7092,non functional
+13862,functional
+12606,functional
+6748,non functional
+4019,functional
+13249,functional
+11305,non functional
+11476,functional
+13567,non functional
+4943,non functional
+8228,functional
+2294,functional
+10237,functional
+5870,functional
+626,functional
+12787,functional
+13728,functional
+4760,functional needs repair
+11669,non functional
+2872,functional
+7127,non functional
+8911,non functional
+12515,functional
+14548,functional
+13484,functional
+8742,functional
+5102,functional
+12016,functional
+10382,functional
+9109,functional
+7690,non functional
+4835,non functional
+13310,functional
+1802,functional
+1002,non functional
+14108,non functional
+8393,functional
+8510,functional
+13730,functional
+6050,functional
+13025,functional
+345,functional
+4446,non functional
+7276,functional
+9065,functional
+939,non functional
+2493,functional
+6728,functional
+12623,non functional
+1009,functional
+6994,functional
+5197,functional
+7036,functional
+9477,functional
+9791,functional
+12455,functional
+7541,non functional
+2947,functional
+4615,functional
+13067,non functional
+14506,functional
+3787,functional
+5264,functional
+2170,functional
+2826,non functional
+9635,functional
+1104,functional
+11466,functional
+9918,functional
+11905,non functional
+6958,functional
+7624,functional
+3161,non functional
+10921,functional
+3992,functional
+2227,functional
+11031,non functional
+5339,functional
+13420,functional
+4758,non functional
+4831,functional
+11994,functional needs repair
+7660,functional
+304,functional
+10356,functional
+9115,non functional
+7564,functional
+3206,functional
+9963,functional
+11780,functional
+2365,functional
+12557,non functional
+11634,functional
+9372,non functional
+4164,functional
+9358,functional
+8871,functional
+350,functional
+9762,non functional
+3396,non functional
+5906,functional
+6596,non functional
+10599,functional
+3423,non functional
+10272,functional
+1295,non functional
+10668,functional
+5629,functional
+4494,functional
+415,functional
+11324,non functional
+2109,functional
+8082,non functional
+471,functional
+5929,non functional
+1643,non functional
+412,functional
+6725,non functional
+3555,functional
+7090,functional
+9294,functional
+7596,functional
+12196,functional
+8177,functional
+12604,functional
+5143,functional
+12099,non functional
+5678,non functional
+11303,functional
+3276,functional
+8668,non functional
+1721,non functional
+1748,functional
+8148,non functional
+8429,functional
+5226,non functional
+1518,non functional
+3986,functional
+6503,functional
+5813,functional
+6239,non functional
+5398,functional
+13886,functional
+8739,functional
+12971,non functional
+8694,functional
+11363,functional
+9205,non functional
+1525,non functional
+6248,functional
+11947,functional
+5429,functional
+5375,functional
+3717,functional
+5510,non functional
+11001,functional
+3536,non functional
+14237,non functional
+6528,functional
+13646,non functional
+8303,non functional
+9728,functional
+10983,functional
+8924,functional
+11210,non functional
+12200,functional
+4382,functional
+12504,non functional
+10437,functional
+9381,functional
+9431,functional
+11180,non functional
+3926,functional
+9688,functional
+3017,functional
+14789,functional
+12608,functional
+1698,functional
+14333,functional
+4504,functional
+11371,non functional
+2580,functional
+7592,non functional
+12009,non functional
+1441,non functional
+11676,functional
+12342,functional
+10995,non functional
+8982,functional
+9171,non functional
+11269,functional
+3967,functional
+9479,non functional
+4434,functional
+6977,functional
+12025,functional
+12740,functional
+14315,functional needs repair
+5397,functional
+8455,functional
+213,non functional
+10183,non functional
+529,non functional
+13670,functional
+11212,functional
+4061,non functional
+10055,non functional
+13703,functional
+4520,functional
+10229,functional
+4749,functional
+5215,functional
+14762,functional
+1699,non functional
+301,non functional
+5202,functional
+5573,functional
+11043,non functional
+13132,functional
+5903,non functional
+4812,functional
+6542,functional
+7807,functional
+10635,functional
+7163,functional
+3541,non functional
+5098,non functional
+7473,functional
+9472,functional
+8044,functional
+1964,non functional
+6797,non functional
+7640,functional
+4708,non functional
+2570,functional
+9931,functional
+10064,functional
+10083,functional
+11417,non functional
+11836,functional
+11057,functional
+9506,functional
+6339,functional
+12780,functional
+12816,functional
+14375,functional
+10157,functional
+13654,functional
+11670,functional
+9245,non functional
+775,non functional
+292,functional
+1132,non functional
+7172,non functional
+14383,functional
+12700,non functional
+12230,functional
+13970,functional
+7758,non functional
+6769,functional
+3798,functional
+4552,non functional
+2709,functional
+960,functional
+6246,functional
+6244,functional
+4368,non functional
+1923,non functional
+11018,functional
+7608,functional
+9185,functional
+3357,functional
+3556,functional
+8543,non functional
+12714,functional
+10539,functional
+9922,functional
+11601,non functional
+14253,non functional
+10267,functional
+6312,functional
+1550,non functional
+10096,functional
+1819,functional
+2253,functional
+8347,non functional
+10365,functional
+9443,non functional
+3502,non functional
+10440,functional
+6700,functional
+5000,non functional
+6839,functional
+1177,non functional
+4701,functional
+10757,non functional
+9349,non functional
+6880,functional
+13246,functional
+577,functional
+6173,functional
+8121,non functional
+5353,functional
+3372,functional
+9217,non functional
+9652,non functional
+10341,functional
+14612,functional
+10292,non functional
+6536,functional
+1909,functional
+2288,functional
+11816,functional
+11020,functional
+13105,functional
+11029,non functional
+10253,functional
+14109,functional
+7098,non functional
+9313,non functional
+5548,functional
+1725,functional
+703,functional
+2885,functional
+4541,non functional
+9212,non functional
+4416,functional
+10955,functional
+10519,functional
+11083,functional
+11924,functional
+7206,functional
+9733,functional
+14291,non functional
+12285,functional
+9240,functional
+12696,functional
+2801,functional
+5046,functional
+14329,functional
+13045,functional
+9019,non functional
+10079,functional
+5141,functional
+14371,non functional
+2119,functional
+12952,functional
+1705,functional
+14737,functional
+5367,non functional
+3918,functional
+5445,functional
+4277,functional
+12841,functional
+1926,functional
+5955,functional
+4579,non functional
+10780,functional
+4808,functional
+3981,functional
+14387,non functional
+14252,non functional
+12047,non functional
+10639,functional
+5633,non functional
+11160,functional
+14046,functional
+4883,functional
+2995,non functional
+879,functional
+13159,functional
+1573,non functional
+501,non functional
+7271,functional
+5733,functional
+13562,non functional
+1176,non functional
+9077,functional
+5838,non functional
+1554,functional
+6064,non functional
+9723,functional
+12729,functional
+4229,functional
+3037,non functional
+4001,functional
+8349,functional
+8848,functional
+12720,functional needs repair
+3443,non functional
+5364,functional
+5504,functional
+11707,non functional
+8161,functional
+4072,non functional
+4296,non functional
+10152,functional
+6370,functional
+9709,functional
+13236,functional
+1595,functional
+11187,non functional
+10568,functional
+996,functional
+14008,non functional
+4180,non functional
+5539,functional
+12758,non functional
+7257,non functional
+14215,functional
+6457,functional
+4737,functional
+912,functional
+11422,functional
+10187,functional
+7808,functional
+12979,functional
+243,non functional
+5916,functional needs repair
+12017,non functional
+6803,non functional
+2572,functional
+9086,functional
+1275,functional
+1195,functional
+14838,functional
+3706,functional
+1977,non functional
+2107,functional
+5379,non functional
+1913,functional
+2351,functional
+14627,functional
+3273,non functional
+7285,functional
+2166,functional needs repair
+14701,non functional
+5973,functional
+7454,functional
+11152,functional
+3625,non functional
+7715,functional
+5195,functional
+5877,functional
+14479,functional
+10701,non functional
+1174,functional
+5255,non functional
+11413,functional
+3317,non functional
+1078,non functional
+3302,functional
+4609,functional
+13466,functional
+14304,non functional
+3327,functional
+136,functional
+1243,functional
+3172,non functional
+2156,non functional
+6836,functional
+4203,functional
+6604,non functional
+5846,functional
+5617,non functional
+9581,non functional
+4879,non functional
+8072,non functional
+13133,non functional
+7269,non functional
+12192,non functional
+5985,functional
+3530,non functional
+1021,functional
+4927,functional needs repair
+4821,non functional
+10621,non functional
+8693,functional
+10707,functional
+3734,non functional
+5708,functional
+10560,functional
+7495,functional
+11056,non functional
+3675,functional
+4454,functional
+6136,non functional
+8941,functional
+8601,functional
+612,functional
+2615,functional
+5787,functional
+12878,functional
+8987,functional
+12707,functional
+13097,non functional
+9585,non functional
+14064,functional
+6751,non functional
+11143,functional
+5543,non functional
+970,non functional
+11643,functional
+7122,functional
+5385,functional
+2751,non functional
+6158,non functional
+432,functional
+5482,non functional
+10870,functional
+10964,functional
+8051,non functional
+3907,functional
+6149,non functional
+3954,functional
+899,functional
+10407,functional
+7105,functional
+5682,functional
+3187,functional
+1256,non functional
+10774,non functional
+7933,non functional
+11552,non functional
+7526,non functional
+546,functional
+14402,non functional
+12521,functional
+11062,non functional
+4533,functional
+10671,functional
+3208,non functional
+13521,functional
+10100,functional
+5572,functional
+10036,non functional
+11886,functional
+3348,functional
+6374,non functional
+2067,functional
+5876,functional
+14828,non functional
+9423,functional needs repair
+14759,non functional
+3098,functional
+7243,functional
+1465,functional
+13253,non functional
+12945,non functional
+3472,non functional
+905,functional
+7530,functional
+14529,functional
+3511,functional
+8428,non functional
+5794,functional
+13168,functional
+1318,functional
+5015,functional needs repair
+10559,functional needs repair
+2238,functional
+14494,functional
+12512,functional
+14469,functional
+6304,functional
+9452,functional
+12372,non functional
+6392,non functional
+7600,functional
+9418,non functional
+12090,functional
+1673,functional
+5851,non functional
+1619,functional
+14351,functional
+5547,functional needs repair
+8445,functional
+6077,non functional
+5829,functional
+12723,functional
+13796,non functional
+10683,functional
+4005,functional
+3177,non functional
+772,non functional
+1218,functional
+140,functional
+12341,non functional
+9230,functional
+5048,non functional
+944,functional
+14417,non functional
+2768,non functional
+9296,functional
+715,functional
+4910,functional
+8691,functional
+4396,functional
+22,non functional
+12344,non functional
+14690,functional
+8043,functional
+6971,non functional
+2523,functional
+12407,functional
+9758,functional
+131,functional
+13649,functional
+8238,non functional
+4475,non functional
+7506,functional
+13577,functional
+5216,functional
+713,functional
+14256,non functional
+3313,non functional
+10178,non functional
+12309,functional
+11135,functional
+10545,functional
+9022,non functional
+5206,non functional
+4902,functional
+10785,functional
+3363,non functional
+4942,functional
+8316,functional
+3922,functional
+44,functional
+424,functional
+2587,functional
+47,functional
+322,functional
+14645,functional
+2252,non functional
+839,functional
+12445,functional
+6965,functional
+1972,functional
+10782,functional
+71,functional needs repair
+4022,functional
+1794,functional
+14572,non functional
+4759,functional
+11741,non functional
+14581,functional
+13198,functional
+3592,non functional
+2672,functional
+633,functional
+5154,functional
+14102,non functional
+2925,functional
+580,functional
+6278,functional
+11486,non functional
+10088,non functional
+3158,non functional
+8675,functional
+13872,functional
+4460,functional
+11176,non functional
+3980,non functional
+4559,non functional
+8723,non functional
+14442,functional
+6396,non functional
+1803,non functional
+965,functional
+844,functional
+9269,functional
+10858,functional
+13372,non functional
+9209,functional
+3539,non functional
+9875,functional
+12201,functional
+12424,non functional
+10623,functional
+10804,non functional
+2216,functional
+1354,functional
+11114,non functional
+2477,non functional
+8388,non functional
+1202,functional
+3570,functional
+5248,functional
+9869,non functional
+9040,functional
+14384,non functional
+9135,non functional
+14144,functional
+9074,functional
+6637,non functional
+14372,non functional
+11427,non functional
+6766,functional
+9841,functional
+6187,non functional
+7123,functional
+1349,functional
+11172,functional
+2918,functional
+13027,functional
+9874,functional
+10092,functional
+8299,functional
+10666,functional
+1509,non functional
+941,functional
+202,functional
+11465,functional
+6826,functional
+5706,functional
+3578,non functional
+3904,functional
+1347,non functional
+543,non functional
+13173,non functional
+7805,functional
+13938,functional
+486,functional
+14133,functional
+10022,functional
+680,non functional
+10394,functional
+7068,functional
+7478,non functional
+1226,non functional
+12158,non functional
+1375,functional
+10553,functional
+228,non functional
+782,non functional
+13469,functional
+1476,non functional
+12628,functional
+1079,non functional
+14670,functional
+11178,functional
+13191,non functional
+13531,functional
+5074,functional
+12189,non functional
+1956,functional
+9333,non functional
+6650,non functional
+7234,functional
+4844,functional
+13268,functional
+8610,functional
+12889,non functional
+13285,functional
+7325,non functional
+13749,non functional
+1864,functional
+744,non functional
+7330,non functional
+655,functional
+6175,non functional
+13381,functional
+8830,functional
+12619,functional
+12031,non functional
+7709,functional
+10039,non functional
+283,functional
+3159,functional
+6750,functional
+4828,non functional
+8370,functional
+8396,non functional
+13012,non functional
+366,functional
+5223,non functional
+10432,functional
+8761,functional
+12250,functional
+5276,non functional
+5293,non functional
+8339,functional
+6623,non functional
+8749,functional
+14578,functional
+1188,functional
+2112,functional
+8841,functional
+11617,non functional
+12039,functional
+3293,functional
+5217,functional
+7099,non functional
+7339,functional
+4215,functional
+12155,non functional
+7991,non functional
+3648,functional
+11419,functional
+1499,functional
+4574,non functional
+9032,functional
+7348,functional
+6827,functional
+6665,functional
+11403,non functional
+11415,functional
+10072,non functional
+1359,functional
+11013,non functional
+14579,non functional
+4880,non functional
+9731,functional needs repair
+296,functional
+3092,non functional
+3403,functional
+2031,functional
+11368,functional
+5683,non functional
+10894,functional
+14045,functional
+12442,functional
+13425,functional
+8200,functional
+2376,functional
+14570,functional
+2063,functional
+3117,non functional
+1061,non functional
+14129,functional
+7919,functional
+1151,functional
+8484,functional
+13859,functional
+6344,functional
+7953,non functional
+5047,functional
+1220,functional
+9406,non functional
+1442,functional
+93,non functional
+2090,functional
+1253,functional
+8677,non functional
+7828,functional
+9520,non functional
+10133,functional
+1572,functional
+7116,non functional
+10424,functional
+12277,functional
+1395,non functional
+3982,functional
+13537,non functional
+3924,non functional
+10678,non functional
+11519,non functional
+12165,functional
+8779,functional
+9092,functional
+12075,functional
+7334,functional
+14562,functional
+11685,non functional
+9464,non functional
+5815,functional
+8078,non functional
+12297,non functional
+12015,functional needs repair
+10168,functional
+2160,functional
+8923,non functional
+2232,functional
+4719,non functional
+7729,functional
+10060,functional
+4283,functional
+10910,functional
+9736,non functional
+12980,functional
+8877,functional
+9720,functional
+14681,functional
+3955,non functional
+14713,non functional
+9817,functional
+14592,functional
+13808,non functional
+7927,functional
+10042,functional
+1166,functional
+7362,functional
+9438,functional
+14199,functional
+4148,functional
+7021,functional
+5627,functional
+5029,functional
+11515,functional
+41,functional
+13704,functional
+794,non functional
+10664,non functional
+2180,functional
+2215,functional
+12089,functional
+12745,functional
+10777,functional
+4853,non functional
+7513,functional
+13240,functional
+6226,non functional
+7169,functional
+7992,functional
+14169,non functional
+5308,functional
+12354,functional
+3809,non functional
+14622,functional
+6844,non functional
+48,functional
+9533,functional
+9719,functional
+1128,non functional
+4560,functional
+11968,functional
+6852,functional
+7937,non functional
+11209,functional
+3518,functional
+13164,functional
+13393,functional
+8776,non functional
+1426,functional
+2651,non functional
+14202,functional
+4135,non functional
+2022,non functional
+821,functional
+12294,non functional
+9436,functional
+10938,functional
+1886,non functional
+1695,non functional
+4566,non functional
+10915,functional
+1743,functional
+7770,functional
+13887,functional
+7511,functional
+2329,functional
+13838,functional
+9303,non functional
+10389,functional
+9889,functional
+3635,functional
+13752,non functional
+11233,functional
+5236,functional
+4833,non functional
+2765,functional
+13269,non functional
+9753,functional
+9847,non functional
+1477,functional
+10074,functional
+3773,functional
+206,non functional
+6767,functional
+10903,non functional
+7507,functional
+4791,functional
+982,non functional
+2161,non functional
+1534,functional
+12983,functional
+5280,functional
+9321,functional
+10154,functional
+3029,non functional
+10093,non functional
+11633,functional
+7148,functional
+885,non functional
+5220,functional
+2392,functional
+5688,functional
+1524,functional
+352,functional
+3368,non functional
+13957,functional
+8330,functional
+2886,non functional
+9170,functional needs repair
+9855,functional
+11318,functional
+3883,non functional
+8875,functional
+13594,functional
+5407,functional
+11721,functional
+13120,functional
+10524,non functional
+9948,functional
+11667,non functional
+5937,functional
+2562,functional
+404,functional
+14183,functional
+2881,functional
+11081,functional
+10334,non functional
+9788,functional
+13158,non functional
+4479,functional
+7537,functional
+1629,functional
+3108,functional
+3326,functional
+12778,functional
+5694,functional needs repair
+14047,non functional
+9678,functional
+10430,non functional
+12930,functional
+14806,functional
+13313,functional
+11463,non functional
+7712,non functional
+7439,non functional
+7342,non functional
+5138,functional
+1236,functional
+357,functional
+10798,functional
+10508,non functional
+6761,non functional
+12137,functional
+4290,functional
+7905,functional
+707,functional
+4891,functional
+11611,non functional
+13220,functional
+8184,functional
+5447,functional
+8064,functional
+2583,functional
+6273,functional
+5107,functional
+6541,functional
+13332,functional
+4843,functional
+13610,functional
+5580,functional
+12924,functional
+12313,functional
+1604,non functional
+10606,functional
+5951,functional
+6707,functional
+2399,non functional
+951,non functional
+10330,functional
+6873,functional
+9626,functional
+9249,functional
+9433,non functional
+10612,non functional
+9613,functional
+342,functional
+618,functional
+7833,functional
+2518,non functional
+8548,functional
+5357,non functional
+14689,functional
+5180,functional
+3201,functional
+9815,non functional
+13771,non functional
+1221,non functional
+2486,functional
+5703,non functional
+3736,functional
+11179,functional
+12599,non functional
+11975,functional
+710,functional
+8402,functional
+7503,functional
+2851,functional
+13676,functional
+5742,functional
+2733,functional
+4583,functional
+9959,functional
+4691,non functional
+7063,non functional
+7895,functional
+13618,functional
+3807,functional needs repair
+11379,functional
+1700,non functional
+8895,non functional
+11576,non functional
+14300,functional
+3128,functional
+6384,functional
+574,functional
+11763,functional
+2058,functional
+3610,non functional
+12794,non functional
+1420,functional
+407,non functional
+11026,functional
+10498,functional
+10537,non functional
+11426,non functional
+11666,non functional
+6907,functional
+7376,non functional
+7050,non functional
+9137,functional
+4424,non functional
+5696,functional
+7995,functional
+6537,non functional
+10482,functional
+10830,functional
+10047,non functional
+8373,functional
+1250,functional
+12857,functional
+786,functional
+4236,functional
+1542,functional
+13002,non functional
+10104,functional
+8667,functional
+337,non functional
+12097,functional
+1112,non functional
+12873,functional
+10614,functional
+12190,functional needs repair
+9656,non functional
+4679,non functional
+8260,functional
+13950,functional
+6561,non functional
+12883,functional
+12541,functional
+5387,functional
+7213,functional
+11706,functional
+3163,functional
+4859,functional
+14224,non functional
+10646,non functional
+5210,functional
+10572,functional
+2519,functional
+10193,functional
+10276,functional
+3375,functional
+11273,functional
+1846,functional
+14567,functional
+7782,functional
+1967,functional
+7723,non functional
+13301,functional
+6406,non functional
+10980,functional
+11113,functional
+13935,functional
+8395,non functional
+3298,non functional
+2127,non functional
+2150,functional
+3133,functional
+6506,functional
+8223,functional
+14558,functional
+13856,functional
+14180,functional
+1321,non functional
+11370,non functional
+2977,non functional
+8032,non functional
+13868,functional
+6986,functional
+5473,functional
+1495,functional
+9988,functional
+14188,functional
+5230,functional
+8400,non functional
+11004,non functional
+10489,non functional
+11983,non functional
+11092,non functional
+768,functional
+14580,functional
+9516,functional
+1949,functional
+14794,functional
+4169,functional
+1436,non functional
+14359,non functional
+11501,functional
+10756,non functional
+1634,functional
+800,functional
+3594,non functional
+12976,functional
+12792,functional
+14326,functional
+13366,non functional
+12814,non functional
+1494,non functional
+12744,functional
+11546,non functional
+6893,non functional
+629,functional needs repair
+14191,functional
+12793,functional
+10746,functional
+2207,functional
+7188,functional
+2174,non functional
+9508,functional
+1209,non functional
+5765,non functional
+4906,functional
+4658,non functional
+10316,functional
+6532,non functional
+13384,non functional
+6989,functional
+6774,functional
+10283,functional
+7653,non functional
+10278,non functional
+12479,functional
+6033,non functional
+1694,functional
+403,functional
+5593,functional
+12580,non functional
+7852,non functional
+11773,non functional
+14039,non functional
+3260,non functional
+11038,functional
+13528,functional
+7346,non functional
+374,functional
+11693,non functional
+1036,functional needs repair
+6075,non functional
+10136,non functional
+5231,functional
+10638,non functional
+13734,functional
+8145,non functional
+2928,functional
+8079,functional
+2983,non functional
+10797,non functional
+2247,functional
+9755,functional
+4729,non functional
+4159,functional
+3996,functional
+14230,non functional
+2337,functional
+13736,functional
+3450,functional
+11319,functional
+1192,functional
+9440,functional
+9968,non functional
+7982,non functional
+12950,non functional
+4855,functional
+7899,non functional
+14449,non functional
+13525,non functional
+9797,non functional
+1189,non functional
+4149,functional
+13306,non functional
+11034,functional
+5114,non functional
+5639,functional
+13679,functional
+9934,non functional
+13880,functional
+1474,functional
+11835,functional
+4545,non functional
+2932,functional
+1258,non functional
+6287,non functional
+13154,functional
+12315,functional
+4523,functional
+5304,functional
+8922,functional
+14729,non functional
+8626,functional
+10643,functional
+3392,functional
+3138,functional
+1186,functional
+12303,non functional
+3740,non functional
+822,functional
+9298,functional
+156,functional
+8837,functional
+4304,non functional
+1384,functional
+6428,functional
+11851,non functional
+14561,functional
+8678,functional
+7582,non functional
+6372,functional
+2985,functional
+11291,functional
+11115,functional
+2601,functional
+7793,non functional
+6572,non functional
+6925,non functional
+14621,functional
+7543,non functional
+11084,functional
+13746,functional
+12393,functional
+13943,functional
+13451,non functional
+7918,functional
+13071,functional
+1751,functional
+7926,functional
+487,functional
+78,functional
+9898,functional
+13399,functional
+2714,functional
+11879,non functional
+12748,functional
+534,functional
+14117,functional
+13540,non functional
+14834,functional
+6793,functional
+5847,non functional
+14228,functional
+1987,non functional
+6073,non functional
+2418,functional
+6101,functional
+216,non functional
+3799,functional
+1984,functional needs repair
+2122,non functional
+9208,functional
+14448,non functional
+12198,non functional
+3766,functional
+10993,functional
+1777,non functional
+12069,functional
+5964,non functional
+3694,non functional
+4795,functional
+11657,functional
+780,functional
+789,non functional
+11376,functional
+9734,functional
+13605,functional
+2401,non functional
+5503,functional
+10251,non functional
+4096,functional
+3937,functional needs repair
+8593,non functional
+14054,functional
+3723,non functional
+7214,functional
+7389,functional
+8271,non functional
+4227,non functional
+13356,functional
+3052,functional needs repair
+6095,non functional
+278,functional
+3194,functional
+5509,functional
+13008,functional
+611,functional
+8449,functional
+6438,non functional
+4959,non functional
+4994,non functional
+1793,functional
+1513,non functional
+6167,non functional
+12692,functional
+1838,functional
+3114,functional
+8433,non functional
+3552,functional
+3559,functional
+2940,non functional
+1361,non functional
+5772,functional
+5799,functional
+3623,non functional
+8674,functional needs repair
+2917,functional
+10339,functional
+6722,non functional
+12289,functional
+12817,functional
+10787,functional
+11535,non functional
+5945,non functional
+14425,functional
+7845,functional needs repair
+8828,functional
+1452,functional
+14704,functional
+824,functional
+7959,functional
+2179,non functional
+6948,non functional
+8261,non functional
+12362,functional
+6806,functional
+3420,functional
+3557,functional
+1575,functional
+13043,functional
+13127,functional
+11609,functional
+2020,functional
+9978,non functional
+1801,functional
+9354,non functional
+11469,functional
+4303,functional
+4158,functional
+10619,functional
+7390,functional
+10414,non functional
+2034,functional
+3957,non functional
+1558,functional
+3036,functional needs repair
+11308,non functional
+13985,functional
+13993,functional
+1931,functional
+5719,functional
+954,functional
+7730,non functional
+3611,non functional
+5915,functional
+604,functional
+6196,functional
+5069,non functional
+9665,functional
+3176,functional
+1385,non functional
+13889,functional
+9661,functional
+8700,functional
+10299,functional
+9036,functional
+9097,functional
+8817,non functional
+14764,functional
+8541,functional
+3167,non functional
+6895,non functional
+10328,non functional
+14692,functional
+826,functional
+7625,functional
+5899,functional
+13304,functional
+13020,functional
+14413,non functional
+13141,non functional
+10474,functional
+6511,functional
+7792,functional
+2041,non functional
+2959,non functional
+8578,non functional
+8210,non functional
+585,non functional
+5286,non functional
+192,functional needs repair
+6838,functional
+13244,non functional
+8353,non functional
+1117,functional
+3115,non functional
+9093,functional
+5652,functional
+13485,functional
+11195,functional
+14379,functional
+14377,functional
+13647,non functional
+8063,functional
+3811,functional
+4772,functional
+12280,functional
+5592,functional
+8090,functional
+2409,non functional
+14673,functional
+7796,non functional
+4947,non functional
+1671,non functional
+13598,non functional
+13358,functional
+8084,functional
+2957,functional
+5006,functional
+4977,non functional
+5720,functional
+7493,functional needs repair
+573,functional
+503,functional needs repair
+2896,functional
+3659,non functional
+4524,non functional
+13282,non functional
+1045,functional
+6918,functional
+3068,functional
+10442,functional
+5343,functional
+8670,non functional
+11990,functional
+8762,functional
+14651,functional
+2013,non functional
+961,non functional
+5450,functional
+4497,functional
+4370,functional
+4538,non functional
+5283,functional
+11817,non functional
+3312,functional
+14016,functional needs repair
+14302,functional
+11514,non functional
+13884,functional
+8368,functional needs repair
+6993,functional
+11285,functional
+10367,functional
+2599,non functional
+7745,functional
+9455,non functional
+1670,functional
+14446,non functional
+13857,functional
+871,functional
+8474,functional
+13782,functional
+446,non functional
+5490,functional
+8156,non functional
+4113,functional
+5133,functional
+10245,functional
+14827,functional
+13744,non functional
+121,functional
+7024,functional
+4887,functional
+2172,functional
+5073,functional
+510,non functional
+7114,functional
+4703,functional
+3816,non functional
+7749,non functional
+80,functional
+401,non functional
+7316,functional
+13968,non functional
+2194,functional
+6632,functional
+3105,non functional
+9430,functional
+11365,functional
+2564,functional
+2850,functional
+6460,non functional
+7547,functional
+11400,functional
+1490,non functional
+14476,functional
+7522,non functional
+7360,non functional
+8377,non functional
+13226,functional
+2257,functional
+4411,functional
+5796,functional
+5413,functional
+10113,functional
+6404,functional
+9768,non functional
+10793,functional
+14178,non functional
+7335,non functional
+2684,non functional
+12491,functional needs repair
+9088,non functional
+9344,non functional
+7848,functional
+886,functional
+4836,functional
+9095,functional
+1656,functional
+5477,functional
+3356,functional
+5484,functional
+14257,functional
+8813,functional
+9691,functional
+11189,functional
+8533,functional
+9495,functional
+614,non functional
+12023,functional
+7552,functional
+13,non functional
+7231,functional
+5546,functional
+5747,functional
+14619,non functional
+14342,non functional
+14451,functional
+9046,functional
+3506,functional
+10370,non functional
+12339,non functional
+6999,functional
+4732,functional
+512,functional
+2506,functional
+5555,non functional
+13260,functional
+13040,functional
+6778,functional
+2082,non functional
+3656,functional
+12248,functional
+8986,non functional
+10291,functional
+6163,functional
+12258,non functional
+5355,non functional
+14196,functional
+5954,functional
+6311,non functional
+10019,functional
+13188,functional
+5620,functional
+8000,non functional
+7274,functional
+2799,functional
+12993,functional
+8622,functional
+12858,functional
+13677,non functional
+7717,functional needs repair
+2990,functional
+12868,non functional
+6842,functional
+10375,functional
+928,non functional
+12936,functional
+7023,functional
+5118,functional
+14531,functional
+9850,functional
+7016,functional
+8979,functional
+6452,functional
+14630,functional
+1903,functional
+1159,functional
+74,non functional
+5470,functional
+8732,functional
+3388,functional
+12603,non functional
+11099,functional
+203,functional
+5359,functional
+10585,non functional
+14590,non functional
+10970,non functional
+3205,non functional
+4825,functional
+7594,non functional
+726,functional
+5266,functional
+11545,functional
+5465,functional
+6527,functional
+3272,functional
+13846,functional needs repair
+11100,functional
+6735,functional
+8682,non functional
+2645,functional
+977,functional
+1230,functional
+3718,functional
+11111,functional
+3322,non functional
+6096,functional
+10368,non functional
+10111,functional
+14699,functional
+2540,functional
+10851,functional
+1106,non functional
+9207,functional
+8089,functional
+13928,functional
+7571,functional
+11128,functional
+13293,non functional
+5809,non functional
+10005,functional
+9468,non functional
+13189,non functional
+8447,non functional
+4950,functional
+5436,functional
+6613,functional
+7228,functional
+12360,functional
+1134,functional
+3010,non functional
+9017,functional
+5786,non functional
+8469,non functional
+8836,functional
+9121,non functional
+14811,functional
+8397,non functional
+2209,functional
+10001,functional
+6940,functional
+6741,functional
+2742,non functional
+12523,non functional
+4056,non functional
+2438,functional
+13688,functional
+4041,functional
+10290,functional
+12697,functional
+3366,non functional
+4046,non functional
+14638,non functional
+4964,functional
+14618,functional
+11335,functional
+5800,non functional
+1173,functional
+14756,non functional
+13018,non functional
+7077,non functional
+8586,functional
+2903,functional
+3100,non functional
+778,functional
+10552,functional
+8067,functional
+4618,functional
+13327,functional
+9260,functional
+5411,functional
+5677,non functional
+8891,functional
+4751,non functional
+7595,functional
+6737,functional
+5351,functional
+3991,non functional
+9323,non functional
+5722,functional
+14022,functional
+2561,functional
+3074,functional
+3655,functional
+236,non functional
+11058,non functional
+12675,functional
+381,functional
+10301,functional
+7892,non functional
+9469,non functional
+4190,non functional
+4972,non functional
+5697,functional
+6954,functional
+6292,functional needs repair
+10282,functional
+11935,functional
+7843,functional
+8246,functional
+4578,functional
+8235,functional
+2897,functional
+2554,functional
+10023,non functional
+4693,functional
+2845,functional
+7922,functional
+3574,functional
+11046,functional
+5014,functional
+8903,functional
+1206,functional
+7565,functional
+4360,non functional
+9042,functional
+13206,functional
+2942,non functional
+2060,functional needs repair
+10284,non functional
+1761,functional
+11593,non functional
+10945,non functional
+12876,functional
+7267,functional
+7612,non functional
+11462,non functional
+8075,non functional
+658,functional
+5211,functional
+8480,non functional
+8357,functional
+6224,non functional
+14274,functional
+6784,functional
+12833,non functional
+2240,functional
+5052,non functional
+6402,functional
+6759,functional
+3295,functional
+242,functional
+12849,functional
+11137,non functional
+9488,functional
+10984,non functional
+10960,functional
+2195,functional
+8991,functional
+4588,non functional
+7875,non functional
+9711,non functional
+2248,functional
+7043,functional
+2686,functional
+5307,non functional
+4233,functional
+9527,non functional
+11085,functional
+14597,functional
+1082,non functional
+12956,non functional
+313,functional
+8618,functional
+4818,non functional
+419,non functional
+9289,functional
+3537,functional
+50,functional
+4333,functional
+9162,functional needs repair
+11846,functional needs repair
+8380,non functional
+3999,functional
+8835,functional
+13434,non functional
+6533,functional
+894,non functional
+5763,non functional
+11778,functional
+2680,functional
+11173,functional
+5058,functional
+3514,non functional
+12731,functional
+2701,functional
+2785,functional
+9751,functional
+1938,functional
+5183,functional
+9110,functional
+3007,functional
+13557,non functional
+2717,functional
+6265,functional
+6699,functional
+4697,non functional
+4649,functional
+12256,functional
+14243,functional
+170,non functional
+8636,functional
+6053,functional
+1460,functional
+3320,functional
+1991,functional
+6233,functional
+9386,functional
+14482,functional
+6975,functional
+11932,functional
+7521,functional
+994,non functional
+14575,non functional
+5781,non functional
+787,functional
+14803,functional
+4988,non functional
+1000,functional
+9686,non functional
+13790,non functional
+11889,functional
+2545,functional
+13006,functional
+9252,non functional
+7322,functional
+2153,non functional
+13554,functional
+9969,functional
+13986,non functional
+8123,non functional
+14415,non functional
+8927,functional
+2419,functional
+7621,non functional
+11003,functional
+12750,functional
+13990,non functional
+14790,functional
+4200,functional
+11815,non functional
+8889,functional
+4232,functional
+843,functional
+2856,non functional
+86,non functional
+12516,functional
+7668,functional
+6859,non functional
+1693,functional
+6021,functional
+7611,functional
+5128,non functional
+11919,functional
+5258,functional
+3630,functional
+13080,functional
+12266,functional
+1948,non functional
+12928,functional
+12420,non functional
+14245,functional
+7466,functional
+375,functional
+3529,functional
+8275,non functional
+10712,functional
+12225,functional
+11785,functional
+6899,functional
+3729,non functional
+11138,functional
+4246,functional
+6719,functional
+14432,functional
+12265,non functional
+10415,functional
+377,non functional
+8461,non functional
+3413,functional
+5640,non functional
+14574,functional
+1314,functional
+8355,functional
+7685,functional
+2421,non functional
+2281,functional
+1263,functional
+14286,functional
+1466,non functional
+11022,non functional
+2679,functional
+4062,functional
+4487,functional
+3865,non functional
+9588,non functional
+11224,functional
+13303,functional
+13155,functional
+1874,non functional
+2313,functional
+2372,non functional
+2280,functional
+14116,non functional
+10287,functional needs repair
+11471,non functional
+1364,functional
+1804,functional
+55,non functional
+4489,non functional
+3284,non functional
+4362,non functional
+7976,functional
+10493,functional
+14760,functional
+14350,non functional
+9715,non functional
+5963,functional
+4778,functional
+5016,functional
+11918,functional
+9857,non functional
+13345,functional
+7655,functional
+7465,non functional
+13837,non functional
+7178,functional
+4568,functional
+12992,functional
+3307,functional
+7150,functional
+1821,non functional
+769,non functional
+2186,non functional
+11660,functional
+8921,functional
+3730,functional
+6708,functional
+6575,non functional
+11897,non functional
+8572,functional
+2848,functional
+12713,functional
+14724,non functional
+5658,functional
+10715,functional
+11917,non functional
+5746,non functional
+2634,functional
+11246,functional
+13448,functional
+8159,functional
+6523,non functional
+1940,functional
+3039,non functional
+2459,functional
+8083,non functional
+7347,functional
+5641,functional
+8869,functional
+5036,functional
+9271,functional
+6007,non functional
+3861,functional needs repair
+6947,non functional
+4604,functional
+11967,non functional
+3425,non functional
+3565,functional
+5294,functional
+6106,non functional
+7783,functional
+11425,non functional
+11205,functional
+695,functional
+10857,non functional
+10942,functional
+240,functional
+10119,non functional
+1293,functional
+9084,functional
+6910,functional
+14422,non functional
+2852,non functional
+770,non functional
+6470,non functional
+14207,functional
+12079,functional
+1357,functional
+9780,functional
+3217,functional
+4704,functional
+6692,functional
+13376,functional
+14421,non functional
+12127,non functional
+8646,functional
+7229,functional
+12836,non functional
+8508,functional
+1279,functional
+6324,non functional
+11354,functional
+8608,non functional
+4390,functional
+7081,non functional
+13450,non functional
+6048,non functional
+8369,functional
+3940,non functional
+11331,functional
+4864,functional
+6550,functional
+3442,functional
+3998,non functional
+6772,functional
+6371,functional
+5687,functional
+12276,functional
+10045,non functional
+4128,functional
+11316,non functional
+288,functional needs repair
+13693,functional
+6395,functional
+11390,functional
+13355,functional
+11088,functional
+9247,functional
+9935,functional
+3517,functional
+8714,functional
+289,functional
+9634,functional
+5243,functional
+8016,functional
+117,non functional
+157,non functional
+11845,functional
+1672,functional
+347,functional
+4186,functional
+5296,non functional
+8624,functional
+12022,functional
+738,functional
+13300,non functional
+14123,non functional
+5449,non functional
+14071,functional
+11512,functional
+5068,functional
+1669,functional
+11613,functional
+3253,functional
+9149,functional
+584,functional
+13496,functional
+14504,non functional
+9133,non functional
+10550,functional
+12104,functional
+9090,functional
+12573,functional
+14192,functional
+3826,functional
+12270,functional
+3244,non functional
+14355,functional
+6830,functional
+5009,functional
+10244,functional
+4132,functional
+3345,non functional
+8166,functional
+1424,functional
+2104,functional
+169,functional
+14539,functional
+11841,functional
+13665,functional
+2144,non functional
+8307,functional
+4546,non functional
+11429,non functional
+3476,functional
+5934,non functional
+14344,functional
+1639,non functional
+9896,non functional
+7181,functional
+12926,functional
+3613,functional
+4372,functional
+3290,functional
+4657,functional
+3492,functional
+6413,functional
+6306,non functional
+559,functional
+12633,functional
+10338,non functional
+10528,non functional
+1901,functional
+4871,functional
+12835,functional
+5585,functional
+14397,functional
+4238,functional
+6616,functional
+8069,functional
+9525,functional
+1623,functional
+6794,functional
+4309,functional
+725,functional
+12509,functional
+5642,functional
+9637,functional
+1954,functional
+2066,non functional
+10544,non functional
+6773,functional
+6981,functional
+1879,non functional
+14400,functional
+11822,functional
+5406,functional
+3713,functional
+926,non functional
+9594,functional needs repair
+160,non functional
+14444,functional
+6474,non functional
+6329,non functional
+11871,non functional
+2447,non functional
+13946,functional
+3752,functional
+2727,non functional
+2,non functional
+10453,functional
+4481,functional
+2116,functional
+10629,functional
+5739,functional
+11596,functional
+8925,non functional
+2685,functional
+2875,functional
+5142,non functional
+3075,functional
+8268,functional
+13000,non functional
+590,functional
+6824,functional
+2824,non functional
+1966,non functional
+13464,non functional
+8999,functional
+8410,functional
+514,functional
+890,non functional
+9956,non functional
+10186,non functional
+6119,non functional
+2111,non functional
+1131,functional
+666,functional
+5665,functional
+11945,non functional
+11958,non functional
+8509,functional
+9579,functional
+1323,functional
+1199,non functional
+947,functional
+6067,functional
+9405,functional
+14459,non functional
+5340,non functional
+13627,non functional
+6672,functional
+7683,functional
+2263,non functional
+2945,functional
+11865,functional
+6740,non functional
+6799,functional
+8229,functional
+4116,non functional
+13386,functional needs repair
+7950,functional
+10570,functional
+9329,functional
+2996,functional
+1291,non functional
+1842,non functional
+391,functional
+13111,functional
+13367,functional
+13878,functional
+14332,functional
+9099,functional
+6475,functional
+3783,non functional
+2953,functional
+10557,non functional
+10881,functional
+13167,non functional
+3822,functional
+5553,functional
+8323,non functional
+12939,functional
+9025,non functional
+8446,functional
+11694,non functional
+12236,functional
+7978,non functional
+6069,functional
+8885,functional
+6597,functional
+8152,functional
+180,non functional
+316,functional
+2802,non functional
+1632,functional
+9064,non functional
+2296,functional
+1929,non functional
+9712,non functional
+12543,non functional
+14725,non functional
+13194,functional
+1050,functional
+6128,functional
+13011,functional
+2689,functional
+9976,functional
+8952,non functional
+8686,functional
+7401,functional
+14474,functional
+6606,functional
+13190,non functional
+4438,functional
+11977,functional
+8340,functional
+10991,functional
+7644,non functional
+14758,functional
+56,functional
+4245,functional
+105,non functional
+7425,functional
+7479,functional
+462,functional
+5282,non functional
+4946,non functional
+9478,functional
+148,functional
+4620,functional
+11430,non functional
+4676,non functional
+14055,functional
+6776,functional
+10058,functional
+14659,functional
+11292,functional
+13738,functional
+4028,functional
+8840,functional
+4601,functional
+10030,non functional
+4591,functional
+12957,functional
+4898,functional
+5850,non functional
+12665,functional
+7987,functional
+13517,non functional
+10971,non functional
+14091,non functional
+14810,functional
+7554,non functional
+10298,functional
+13708,functional
+13334,functional
+7930,non functional
+3591,functional
+7988,functional
+12446,functional
+747,functional
+7773,non functional
+10825,non functional
+5337,functional
+379,functional
+1475,functional
+11747,non functional
+12638,functional
+14642,functional
+765,functional
+10454,functional
+5166,non functional
+10273,non functional
+8620,functional
+2847,functional
+7990,functional
+1545,functional
+264,functional
+11299,non functional
+7151,functional
+10839,functional needs repair
+8365,non functional
+9063,non functional
+9242,non functional
+8573,functional
+3802,functional
+13486,functional
+5227,non functional
+10398,functional
+9327,functional
+106,functional
+2772,functional needs repair
+12229,functional
+6317,functional
+5981,non functional
+11106,functional
+6731,functional
+5265,functional
+3238,functional
+6715,non functional
+14062,non functional
+1342,functional
+8364,functional
+422,functional needs repair
+3651,functional
+973,functional
+11255,functional
+2632,non functional
+7616,non functional
+1516,functional needs repair
+11194,functional
+9617,non functional
+3110,functional
+10708,non functional
+5659,functional needs repair
+10603,non functional
+11810,functional
+9394,functional
+10165,functional
+11544,functional
+1348,non functional
+6291,functional
+12495,non functional
+11586,functional
+7315,functional
+737,functional
+4448,functional
+10582,non functional
+5664,functional needs repair
+12179,functional
+7223,functional
+13629,functional
+6768,functional
+4905,functional
+6063,non functional
+4938,non functional
+8712,non functional
+2278,functional
+9256,non functional
+10699,functional
+5686,functional
+13664,functional
+7932,functional
+6834,functional
+12526,functional
+7383,non functional
+5673,functional
+13395,functional
+418,functional
+14310,non functional
+13743,functional
+2482,non functional
+10879,functional
+14345,non functional
+1015,non functional
+9513,functional
+9630,functional
+13078,non functional
+6502,functional
+6664,non functional
+12321,functional
+8945,non functional
+10399,functional
+6686,non functional
+1973,functional
+19,non functional
+13134,non functional
+8221,non functional
+9182,functional
+3566,functional
+14141,functional
+426,functional
+5939,functional
+9505,functional
+9627,functional
+8685,functional
+13591,functional
+7787,functional
+11334,functional
+11746,non functional
+9684,functional
+13093,functional
+14503,non functional
+9878,non functional
+13683,non functional
+11770,functional
+11302,functional
+10742,functional
+6833,functional needs repair
+11893,non functional
+10886,functional
+8939,functional
+2318,functional
+10836,functional
+11420,functional
+14220,non functional
+7973,functional
+4885,functional
+10176,functional
+1781,functional
+10481,functional
+4319,non functional
+3481,non functional
+13409,non functional
+2830,functional
+1538,functional
+13899,functional
+2146,non functional
+8189,non functional
+7748,non functional
+9031,non functional
+13988,functional
+12632,non functional
+14160,functional
+2490,functional
+1459,functional
+12947,non functional
+14182,functional needs repair
+5578,functional
+9767,functional
+5836,non functional
+7997,functional needs repair
+12060,functional
+7836,non functional
+12365,non functional
+12246,functional
+3334,functional
+8625,non functional
+14152,functional
+2539,non functional
+2011,functional
+3135,non functional
+13083,functional
+519,functional
+12374,functional
+1532,non functional
+7529,functional
+13751,functional
+4622,non functional
+8692,functional
+3936,non functional
+1942,non functional
+9080,functional
+4103,functional
+12984,functional
+9783,functional
+5027,functional
+1332,functional
+3820,functional
+3804,functional
+9611,functional
+5305,non functional
+2954,non functional
+11241,non functional
+11206,non functional
+7496,functional
+12630,functional needs repair
+14846,functional
+8955,non functional
+11443,functional
+1561,functional
+9846,functional
+1369,functional
+4519,non functional
+10129,functional
+9342,functional
+11829,functional
+6171,functional
+8478,functional
+8571,non functional
+2312,functional
+10931,non functional
+10652,non functional
+10003,non functional
+10435,functional needs repair
+9782,functional
+11393,functional
+8240,functional
+12433,functional
+9745,functional
+14317,functional
+13579,functional
+4385,functional
+4027,functional
+6174,functional
+12006,non functional
+14586,functional
+12875,functional
+12333,functional
+14285,functional
+5971,functional
+13814,non functional
+1677,functional
+7455,non functional
+2761,functional
+2949,functional
+6841,functional
+14057,functional
+11878,non functional
+1631,non functional
+11025,functional
+7669,functional
+10969,non functional
+13163,functional
+9255,non functional
+3285,functional
+11474,functional
+893,non functional
+6930,functional
+6698,non functional
+2079,functional
+10009,non functional
+5908,functional
+3352,non functional
+9330,functional
+2844,functional
+1111,functional
+6526,non functional
+12156,functional
+5285,functional
+2557,functional
+14560,non functional
+1086,functional
+4809,functional
+5564,functional
+4645,functional
+14078,functional
+5360,functional
+1038,functional needs repair
+2641,non functional
+13264,non functional
+8789,functional
+365,functional
+661,non functional
+12716,functional
+13763,functional
+6736,non functional
+7185,functional
+11190,functional
+3175,functional
+11284,functional
+6354,functional
+324,non functional
+13364,functional
+11610,non functional
+2973,functional needs repair
+10182,functional
+3475,functional
+8333,non functional
+10184,functional
+13228,non functional
+9756,non functional
+11434,non functional
+1860,functional
+7914,non functional
+2595,functional
+294,functional
+4667,functional
+463,functional
+790,functional
+1341,functional
+7634,non functional
+11247,non functional
+4532,non functional
+11129,non functional
+6653,functional
+12454,non functional
+4967,functional
+10180,non functional
+1301,functional
+5356,functional
+13870,functional
+3398,non functional
+576,non functional
+6026,non functional
+7424,functional
+11490,functional
+3410,functional
+6079,functional
+13390,non functional
+7826,functional
+13059,non functional
+9002,functional
+14318,functional
+4706,non functional
+2069,non functional
+14829,functional
+1797,functional
+10754,functional
+7204,functional
+920,functional
+12722,functional
+1334,functional
+2051,non functional
+14566,functional
+1059,non functional
+73,non functional
+14750,functional
+10034,non functional
+4920,non functional
+14031,functional
+3805,functional
+11295,non functional
+9177,functional
+14632,non functional
+9937,functional
+3619,non functional
+351,functional
+14770,functional
+12855,functional
+12202,non functional
+3086,functional
+12525,functional
+14455,non functional
+3162,functional
+11743,functional
+13861,functional
+13566,functional
+7416,non functional
+12743,functional
+3226,functional
+11380,functional
+8550,functional
+13555,functional
+5403,functional
+3520,functional
+1013,functional
+13620,functional
+3310,functional
+13974,functional
+13568,functional
+1267,non functional
+10526,functional
+317,functional
+2883,functional
+2451,functional
+11217,functional
+12105,functional
+3603,non functional
+5438,functional
+6135,functional
+4781,functional
+2489,functional
+3330,functional
+11726,non functional
+12839,non functional
+4669,functional
+11750,functional
+13543,non functional
+7698,functional
+8216,non functional
+3549,functional
+13039,functional
+599,functional
+3620,functional needs repair
+7570,non functional
+8097,functional
+6442,functional
+5033,functional
+12451,functional
+10529,functional
+7824,functional
+6760,functional needs repair
+12785,non functional
+9119,functional
+12987,non functional
+11573,functional
+7706,non functional
+5334,functional
+12249,functional
+9373,functional
+545,functional
+11061,functional
+14505,non functional
+3532,non functional
+9334,functional
+11731,functional needs repair
+11627,functional
+9026,functional
+218,non functional
+1815,functional
+1627,functional
+1088,functional
+13072,functional
+408,functional
+897,non functional
+2211,functional
+10002,non functional
+1963,functional
+10755,non functional
+2277,functional
+7321,functional
+4685,functional
+3395,non functional
+6274,non functional
+2239,functional
+13553,functional
+1185,non functional
+3407,functional
+1771,non functional
+6790,functional
+2014,functional
+3968,functional
+4439,non functional
+10261,functional
+13092,functional
+9584,non functional
+9085,functional
+7853,functional
+6788,non functional
+9474,non functional
+6229,functional needs repair
+4537,non functional
+8748,non functional
+4709,non functional
+2272,non functional
+1816,functional
+10388,functional
+4371,non functional
+13309,functional
+14536,functional
+3692,non functional
+8188,functional
+4000,non functional
+6350,non functional
+64,functional
+2395,non functional
+13294,functional
+4300,functional
+10161,functional
+9070,non functional
+12631,functional
+7176,functional
+9028,functional
+1726,non functional
+5533,functional
+7441,functional
+11959,functional
+11067,functional
+1001,functional
+14184,functional
+7110,functional
+2975,functional
+6342,functional
+11039,functional
+5529,functional
+1312,non functional
+7638,non functional
+13144,functional
+2862,functional
+2676,functional
+7822,functional
+11124,functional
+1831,functional
+4527,non functional
+13650,non functional
+8565,non functional
+14033,non functional
+2471,functional
+12890,functional
+11339,non functional
+4079,non functional
+9141,non functional
+2819,functional
+208,functional
+10383,non functional
+1988,functional
+12348,functional
+14059,non functional
+10355,non functional
+4968,functional
+3767,functional
+7504,non functional
+9339,functional
+570,functional
+14798,non functional
+1419,non functional
+13452,functional needs repair
+7915,functional
+5369,functional
+14596,non functional
+2255,functional
+7453,functional
+5831,non functional
+3829,functional
+814,functional
+11883,functional
+10633,functional
+7815,functional
+2857,functional
+4286,functional
+72,functional
+12892,functional
+12063,functional
+4854,non functional
+12012,non functional
+1184,functional
+11909,non functional
+10477,functional
+9153,non functional
+5898,functional needs repair
+10583,functional
+3899,non functional
+229,functional
+1445,functional
+8803,non functional
+5647,functional
+4565,functional
+5502,non functional
+8057,functional
+1239,non functional
+87,functional
+7350,functional
+8466,functional
+1034,functional
+10175,non functional
+9742,functional
+1657,functional
+10953,functional
+4584,functional
+10998,functional needs repair
+8196,non functional
+6704,non functional
+10354,functional
+6917,functional
+13504,functional
+12704,functional
+8786,functional
+4205,non functional
+363,non functional
+13412,non functional
+1458,functional
+1770,functional
+7244,non functional
+9957,functional needs repair
+2502,functional
+4420,non functional
+7637,functional
+2258,non functional
+10114,functional
+8038,non functional
+14601,functional
+4852,functional
+12261,functional
+14683,non functional
+12854,non functional
+13888,functional
+1902,functional
+7514,non functional
+11107,functional
+7410,functional
+7011,functional
+2432,non functional
+10760,non functional
+12061,non functional
+7329,non functional
+6691,functional
+9970,non functional
+5811,non functional
+13845,non functional
+8401,functional
+8595,non functional
+7780,functional needs repair
+13453,non functional
+1811,non functional
+4486,functional
+6098,non functional
+7768,functional
+5700,functional
+10214,non functional
+6008,functional
+3109,non functional
+3890,non functional
+14823,functional
+13958,non functional
+8092,non functional
+9810,functional
+14088,functional
+14785,non functional
+6216,functional
+1155,non functional
+10227,functional
+189,functional
+4075,functional
+4971,functional
+6846,non functional
+5674,functional
+4731,functional
+9127,functional
+771,non functional
+9112,functional
+2073,functional
+205,functional
+11745,functional
+12560,functional
+2664,functional
+8778,functional
+2703,functional
+6574,functional
+6520,functional
+1305,non functional
+12080,non functional
+4582,functional
+13238,non functional
+2308,non functional
+10966,functional
+6770,functional
+13527,functional
+6280,non functional
+10689,non functional
+4495,functional
+1868,functional
+11150,functional
+9079,functional
+11108,non functional
+7476,non functional
+13508,functional
+2390,functional
+2301,functional
+13590,functional
+9481,non functional
+12610,non functional
+4965,functional
+214,functional
+14043,non functional
+7575,functional
+9582,functional
+8192,functional
+3103,functional
+167,functional
+9498,non functional
+1622,functional
+11842,functional
+8611,functional
+5106,functional
+5376,non functional
+11045,non functional
+8322,functional
+3695,functional
+13966,functional
+1415,functional
+14552,functional
+4621,non functional
+12643,functional needs repair
+12935,functional
+3831,functional
+7961,functional
+7107,functional
+5863,functional
+6346,non functional
+891,functional
+6695,functional
+2243,functional
+6924,non functional
+3339,functional needs repair
+6782,functional
+13139,non functional
+8375,functional
+14337,non functional
+10906,non functional
+5040,functional
+10642,functional
+724,functional
+11744,functional
+2270,functional
+4289,functional
+6111,functional
+12067,functional
+8802,functional
+12207,non functional
+4265,non functional
+7872,non functional
+8792,functional
+11048,functional
+177,non functional
+6851,functional needs repair
+13214,functional
+10753,functional
+6629,non functional
+10196,functional
+1254,functional
+2198,functional
+1668,functional
+11328,functional
+12761,non functional
+6861,non functional
+6809,functional
+6545,non functional
+6879,functional
+12460,functional
+4220,non functional
+2141,non functional
+3690,functional
+3672,non functional
+12862,functional
+14547,non functional
+4066,functional
+13570,functional
+14357,functional
+13592,functional
+10531,functional
+11119,functional
+9839,non functional
+13710,functional
+6876,non functional
+5511,functional
+12279,functional
+9844,non functional
+4678,functional
+7601,non functional
+8454,non functional
+4868,functional
+6746,functional
+9444,functional
+9152,functional
+5910,functional
+6662,functional
+712,non functional
+3568,functional
+13437,functional
+10264,non functional
+8831,functional
+10776,functional
+7270,functional
+12427,functional
+10109,functional
+12536,functional
+1768,functional
+9447,functional
+8366,functional
+12657,functional
+8473,functional
+5003,non functional
+8966,functional
+5103,non functional
+855,non functional
+13382,functional
+9814,functional
+995,functional
+14801,functional
+11537,functional
+12473,functional
+857,non functional
+9643,non functional
+10812,non functional
+5494,non functional
+3275,non functional
+10522,functional
+992,non functional
+5737,functional
+13275,functional
+11830,functional
+3989,functional
+6146,functional
+13932,functional
+7435,non functional
+3597,functional
+9824,non functional
+2098,non functional
+12498,functional
+12768,functional
+8417,functional needs repair
+6044,functional
+8546,functional
+12251,functional
+11678,non functional
+10231,non functional
+10015,functional
+1032,non functional
+7636,functional
+12899,functional
+13982,non functional
+6369,non functional
+8899,functional
+9944,functional
+8383,functional
+6036,functional
+4935,functional
+6864,functional
+2340,functional
+2508,non functional
+2008,functional
+2228,functional
+7572,functional
+6322,functional
+5725,non functional
+14190,non functional
+4197,non functional
+4352,functional
+14481,functional
+2628,functional
+5962,functional
+7183,functional
+7894,functional
+13680,functional
+13714,non functional
+13849,functional
+2241,functional needs repair
+2029,functional
+10751,functional
+12149,functional
+13883,non functional
+293,functional
+7620,functional
+9752,functional
+3160,non functional
+11165,functional
+4174,non functional
+4364,non functional
+6459,functional
+6980,functional
+12919,non functional
+13192,non functional
+13442,non functional
+4886,functional
+6557,functional
+11322,functional
+2266,functional
+4648,functional
+10016,functional
+619,functional
+4417,non functional
+413,functional
+12143,non functional
+5022,functional
+10548,functional
+338,functional
+2818,functional
+3720,functional
+7590,non functional
+11969,functional
+1367,functional
+4212,non functional
+3095,non functional
+4143,non functional
+9714,functional
+14458,functional
+4193,functional
+6639,functional
+4196,functional
+1428,functional
+14703,functional
+5922,functional
+8217,functional
+13544,functional
+12286,functional
+7199,functional
+9519,functional
+1496,functional
+4949,functional
+2443,non functional
+4789,non functional
+4130,functional
+4012,non functional
+14460,non functional
+6482,functional
+3531,non functional
+4567,functional
+2915,non functional
+13261,non functional
+7303,functional
+5549,functional
+9390,functional
+10427,functional
+8301,functional
+647,non functional
+1611,functional
+6501,functional
+1779,functional
+10976,non functional
+9145,functional
+14475,non functional
+10099,functional
+13897,functional
+1316,functional
+3178,functional
+10197,non functional
+315,functional
+4437,functional
+3843,non functional
+8207,functional
+963,non functional
+6018,functional
+4904,functional
+11984,non functional
+12044,functional
+9258,non functional
+10450,functional
+5428,functional
+568,non functional
+8341,functional
+12035,non functional
+14696,non functional
+10872,functional
+7280,functional
+5532,functional
+10465,functional
+13520,functional
+5079,functional
+10506,functional
+7803,functional
+7121,non functional
+14395,functional
+13997,functional
+5868,functional
+3466,functional
+5176,functional needs repair
+13506,functional
+9882,functional
+6970,functional
+84,functional
+3833,non functional
+11765,functional
+13625,non functional
+3615,non functional
+7938,functional
+7149,functional
+9868,non functional
+1709,functional
+10651,functional
+13891,functional
+1934,functional
+11988,non functional
+12789,functional
+11511,non functional
+5212,functional
+10268,non functional
+3249,functional
+5685,functional
+6393,functional
+1990,functional
+6789,functional
+11862,functional
+1011,functional
+318,functional
+1351,non functional
+1638,functional
+11040,functional
+5479,functional
+7173,functional
+12530,functional
+13721,functional
+388,non functional
+2193,functional
+13283,non functional
+4605,functional
+938,functional
+1890,functional
+12463,functional
+12795,functional
+648,functional
+9695,non functional
+9610,non functional
+10922,functional
+10112,functional
+5182,non functional
+12751,functional
+6206,functional
+12161,non functional
+4048,non functional
+1741,non functional
+6088,functional
+7336,functional
+2781,functional
+9681,functional
+10789,functional
+4589,functional
+7969,non functional
+6706,non functional
+14316,functional
+10604,functional
+13022,functional
+11720,non functional
+8352,functional
+2578,non functional
+7799,non functional
+4151,functional
+4407,non functional
+10110,non functional
+7380,non functional
+9726,functional
+14555,non functional
+8597,functional
+10914,functional
+9632,non functional
+5242,non functional
+6609,non functional
+2462,non functional
+4184,functional
+13180,functional
+7196,functional
+11459,non functional
+12367,functional
+3096,non functional
+9174,functional
+8350,functional
+6386,functional
+12371,functional needs repair
+11859,functional
+8633,functional
+659,functional
+8133,functional
+11367,non functional
+8023,functional
+12262,functional
+6440,functional
+12043,functional
+4597,functional
+12443,functional
+5163,non functional
+507,functional
+1867,non functional
+9967,non functional
+12749,functional
+297,functional needs repair
+7684,functional
+2674,non functional
+11330,non functional
+544,non functional
+1092,non functional
+6134,non functional
+11550,non functional
+11594,functional
+10974,non functional
+13490,non functional
+11432,non functional
+2369,functional
+7485,functional
+7248,non functional
+11369,functional
+12357,functional
+2964,functional
+4493,functional
+10887,non functional
+1484,functional
+13712,non functional
+6057,non functional
+104,functional
+4036,functional
+6668,non functional
+3336,functional
+11895,non functional
+8943,functional
+2319,functional
+640,non functional
+115,functional
+5122,functional
+1786,functional
+3116,functional
+4029,non functional
+2531,functional
+5075,functional
+1613,non functional
+1697,functional
+953,non functional
+10459,functional
+13383,functional
+11416,functional
+14260,functional
+2675,functional
+12492,functional
+340,functional
+11857,functional
+9424,functional
+14015,non functional
+5129,functional
+10657,functional
+3569,functional
+566,non functional
+553,functional
+563,functional
+13391,functional
+1894,functional
+200,functional
+8815,functional
+6123,functional
+2032,functional
+11856,functional
+7816,non functional
+2159,non functional
+8219,functional
+1160,functional
+2976,non functional
+11325,non functional
+8362,functional
+9511,non functional
+14672,functional
+2430,functional
+9555,functional
+3408,functional
+11762,functional
+2968,non functional
+9336,functional
+3876,non functional
+11473,non functional
+6813,non functional
+2320,functional
+3872,functional
+9834,functional
+11223,non functional
+11885,functional
+2784,functional
+13949,functional
+3346,functional
+5181,functional
+14135,functional
+10609,functional
+4389,functional
+5234,non functional
+12909,non functional
+536,non functional
+9854,functional
+14711,non functional
+6282,non functional
+5699,functional
+7470,functional
+12916,non functional
+2887,functional
+11449,functional
+12064,functional
+5959,functional
+11345,non functional
+8047,non functional
+4933,functional
+865,functional
+13065,functional needs repair
+11102,non functional
+14305,non functional
+14014,functional
+3342,functional
+807,functional
+4756,functional
+11521,functional
+10323,non functional
+6680,non functional
+5541,functional
+9442,non functional
+3373,non functional
+5463,non functional
+11844,non functional
+10091,non functional
+10491,functional
+14457,functional
+10028,functional
+12008,functional
+6427,non functional
+2145,functional
+11554,functional
+12802,functional
+8635,functional
+4244,functional
+7913,functional
+11073,functional
+9649,non functional
+7134,functional
+4030,functional
+9214,non functional
+11533,functional
+6137,functional
+14097,non functional
+11487,functional
+9741,functional
+14584,functional
+11591,functional
+4093,functional
+6571,functional
+9911,functional
+1391,non functional
+3437,functional
+3577,functional
+13603,non functional
+6950,functional
+12641,functional
+4989,functional
+6190,non functional
+13933,non functional
+10041,functional
+4452,functional
+12459,functional
+7232,functional
+7167,functional
+6467,functional
+10750,non functional
+6110,non functional
+8790,non functional
+3043,functional
+3791,functional
+10863,functional
+185,non functional
+3751,non functional
+11608,functional
+3083,functional
+4705,non functional
+911,functional
+13225,non functional
+8919,non functional
+158,functional
+11396,non functional
+10925,non functional
+12664,functional
+3155,functional
+10378,functional
+2538,non functional
+7643,non functional
+3970,functional
+8224,functional
+6484,non functional
+7291,functional
+8306,functional
+349,non functional
+8230,non functional
+9677,functional
+7260,non functional
+7000,non functional
+10158,functional
+9996,functional
+3077,non functional
+10318,functional
+4555,functional
+8404,functional
+14019,functional
+6476,non functional
+8420,functional
+12851,non functional
+13266,functional
+12210,non functional
+14012,functional
+1712,non functional
+6644,non functional
+7692,functional
+7569,functional
+12964,non functional
+924,non functional
+98,non functional
+4161,functional
+79,non functional
+11759,functional
+8562,functional
+7854,functional
+3004,functional
+2738,non functional
+8504,functional
+12038,functional
+7094,functional
+13003,non functional
+6178,functional
+6563,functional
+12904,non functional
+541,non functional
+8511,functional
+11496,non functional
+10458,functional
+6621,functional
+10859,functional
+10736,functional
+1026,non functional
+5302,functional
+13177,non functional
+9813,functional
+5253,functional
+8870,non functional
+3891,functional
+7618,functional
+6046,functional
+5497,functional
+14439,functional
+3119,non functional
+6469,functional
+11872,functional
+6505,non functional
+4431,functional
+2963,non functional
+3997,functional
+2692,functional
+1962,functional
+3813,functional
+9434,non functional
+1719,functional
+7497,functional
+8004,functional
+6199,non functional
+3231,functional
+8818,functional
+5834,non functional
+12639,functional
+7074,functional
+9118,functional
+6122,functional
+2559,non functional
+4418,functional
+8873,functional
+2052,functional
+13892,functional
+12587,functional
+13279,functional
+4710,functional
+6857,functional
+14038,functional
+9980,functional
+10920,functional
+8613,functional
+5791,functional
+8650,non functional
+11016,functional
+12429,functional
+13959,functional
+9510,non functional
+5738,functional
+3377,functional
+6714,functional
+3111,functional
+4225,functional
+12319,non functional
+11402,functional
+3349,functional
+11982,functional
+10150,functional
+14221,functional
+8058,functional
+11418,functional
+14101,functional
+3062,functional
+13733,functional
+13333,functional
+12431,non functional
+9202,non functional
+7042,non functional
+13913,functional
+9664,functional
+6,functional
+7703,non functional
+4397,functional
+8525,functional
+8389,functional
+6089,functional
+11908,functional needs repair
+3558,functional
+10923,non functional
+107,functional
+7490,non functional
+5524,non functional
+5474,functional
+11587,non functional
+831,functional
+8770,non functional
+12754,non functional
+5198,functional
+12418,functional
+9761,non functional
+6405,non functional
+9102,functional
+8409,functional
+2151,non functional
+907,functional
+10233,functional
+6391,functional
+997,functional
+8752,functional
+4209,functional
+2138,functional
+4603,non functional
+11366,non functional
+2644,functional
+3433,functional
+11265,non functional
+1271,functional
+7850,functional
+11409,functional
+14009,functional
+2759,functional
+11436,non functional
+14295,functional
+12154,non functional
+11412,functional
+12462,non functional
+10578,functional
+9397,functional
+14349,functional
+8070,functional
+8566,functional
+7146,non functional
+6365,non functional
+13488,functional
+6277,functional
+500,functional
+966,non functional
+6065,functional
+1286,functional
+5401,functional
+12011,functional
+11847,functional
+8169,non functional
+12685,functional
+8844,non functional
+1157,functional
+14497,functional
+1028,functional
+2380,functional
+6043,non functional
+4600,functional
+13305,functional
+13148,functional
+12066,functional
+8441,non functional
+3503,functional
+5461,non functional
+4717,functional
+2986,functional
+6296,functional
+12153,functional
+10171,functional
+6039,functional
+3021,non functional
+6219,functional
+4328,non functional
+8094,functional
+5124,functional
+10749,functional
+6934,non functional
+4793,functional
+11595,functional
+14394,functional
+13812,functional
+11378,non functional
+3956,non functional
+3632,functional
+12385,functional
+6272,non functional
+1822,functional
+9204,functional
+2748,functional
+8985,functional
+9795,functional
+10577,functional
+3182,functional
+1522,functional
+11506,functional
+12490,functional
+10243,functional
+9348,functional
+4629,non functional
+8054,functional
+5894,functional
+8491,functional
+13277,non functional
+14268,functional
+10350,functional
+9906,non functional
+6142,functional
+781,non functional
+7994,non functional
+7863,functional
+5812,non functional
+2530,non functional
+11312,functional
+1211,functional
+3146,functional
+6013,functional
+856,non functional
+9353,functional
+11691,functional
+1647,non functional
+12846,functional
+3902,non functional
+5923,functional
+2260,functional
+125,functional
+232,functional
+9654,non functional
+13493,functional
+5076,functional
+3341,non functional
+9997,non functional
+3761,functional
+7413,functional
+8335,functional
+9006,functional
+9244,non functional
+12757,functional
+3157,functional
+7667,non functional
+6957,functional needs repair
+14406,non functional
+5021,non functional
+498,non functional
+1593,functional
+1552,non functional
+12838,functional
+11306,functional
+9799,non functional
+4856,functional
+4279,non functional
+6816,functional
+12649,functional
+582,non functional
+7251,functional
+4047,non functional
+3979,non functional
+7567,functional
+13871,non functional
+10658,functional
+6068,functional
+2525,functional
+14083,non functional
+435,functional
+95,functional
+9364,functional
+9399,functional
+3139,non functional
+7989,functional
+14085,functional
+11435,non functional
+1875,functional
+14822,functional
+13419,non functional
+8225,functional
+2515,functional
+12546,non functional
+1859,functional needs repair
+12781,functional
+949,non functional
+8914,functional
+12564,non functional
+11391,non functional
+5455,non functional
+3633,non functional
+627,non functional
+12120,functional
+1678,functional
+5584,functional
+5842,functional
+6092,functional
+4623,functional
+10747,non functional
+163,non functional
+5290,functional
+7925,non functional
+4302,non functional
+3935,functional
+10410,non functional
+14234,functional needs repair
+5119,non functional
+1896,functional
+3722,functional
+10972,functional
+3223,functional
+11937,non functional
+7741,non functional
+6855,non functional
+12659,functional
+2302,functional
+6902,functional
+10978,functional
+8696,functional
+12147,functional
+3705,functional
+5892,functional
+12872,functional
+2841,functional
+10218,non functional
+5241,non functional
+12267,functional
+1044,non functional
+2812,non functional
+7404,non functional
+2835,functional needs repair
+13033,functional
+10255,functional
+4125,functional
+4316,non functional
+9904,functional
+2293,functional
+6099,non functional
+1703,functional
+4433,functional
+3969,functional
+8277,functional
+7170,functional
+12756,non functional
+10372,functional
+3422,functional
+11467,functional needs repair
+777,non functional
+10385,functional
+4341,functional
+11504,functional
+6334,non functional
+2542,functional
+14515,functional
+5881,functional
+13339,functional
+11580,functional needs repair
+14624,functional needs repair
+14339,non functional
+5982,functional
+1229,functional
+1365,non functional
+10040,functional
+2946,functional
+14139,functional
+1663,non functional
+8638,functional
+13015,non functional
+13389,functional
+9964,functional
+2387,non functional
+7593,non functional
+2322,non functional
+2299,functional
+6156,non functional
+13446,non functional
+12891,functional
+3945,functional
+13307,non functional
+5252,non functional
+5515,non functional
+9318,functional
+1405,functional
+5110,non functional
+1614,non functional
+5410,functional
+2152,functional
+5975,non functional
+4252,functional
+9159,functional
+9082,non functional
+8772,non functional
+7957,functional
+6754,functional
+3329,functional needs repair
+3457,functional
+13413,non functional
+7219,non functional
+14114,non functional
+1560,non functional
+13438,functional
+7912,functional
+12406,functional
+3318,non functional
+10704,non functional
+12358,functional
+7666,functional
+5654,functional
+4610,non functional
+6643,non functional
+14787,non functional
+12848,functional
+7095,functional
+554,non functional
+6024,non functional
+60,functional
+4123,non functional
+7859,non functional
+5151,non functional
+13794,functional
+7418,functional
+867,functional
+4827,non functional
+8594,functional
+14824,functional
+7631,non functional
+8969,non functional
+273,functional
+457,non functional
+6922,functional
+13270,functional
+3735,functional
+10211,functional
+2619,functional
+1487,functional
+8374,functional
+5326,functional
+4517,functional
+7460,functional
+3215,functional
+12335,functional
+2979,non functional
+7060,functional
+8777,non functional
+14528,non functional
+14205,functional
+12694,functional
+9427,functional
+2747,functional
+14556,functional
+9985,non functional
+4422,functional
+7144,functional
+7113,functional
+495,functional
+5956,non functional
+6294,non functional
+4292,functional needs repair
+10867,non functional
+4999,functional
+13546,non functional
+1412,non functional
+14050,functional
+14086,functional
+6166,functional
+13545,non functional
+385,functional
+8839,functional
+65,functional
+10685,functional
+1510,functional
+6090,non functional
+14174,functional
+1955,functional
+3605,non functional
+10475,functional
+6991,non functional
+3038,functional
+8256,functional
+4688,functional
+6576,non functional
+3504,functional
+10010,functional
+7412,functional
+5779,non functional
+6424,non functional
+5692,non functional
+10521,functional
+9936,functional
+10131,functional
+9798,functional
+3544,functional
+344,non functional
+6870,functional
+14175,non functional
+10637,non functional
+13606,functional
+3448,non functional
+12222,functional
+12954,non functional
+11566,functional
+2338,non functional
+7463,non functional
+11645,functional
+6583,functional
+8066,non functional
+625,non functional
+10916,non functional
+290,functional
+5191,non functional
+3776,functional
+9575,functional
+1425,functional
+14122,functional needs repair
+7525,functional
+6997,non functional
+9916,functional
+2911,functional
+6477,functional
+2958,non functional
+2431,functional
+6802,non functional
+13547,functional
+5026,functional
+12566,non functional
+12036,functional
+4136,functional
+4507,non functional
+4626,non functional
+8006,functional
+7203,non functional
+2782,functional
+2833,non functional
+10461,non functional
+12123,functional
+7130,functional
+8173,functional
+10270,functional
+8191,functional
+9416,non functional
+10381,non functional
+13657,functional
+13404,non functional
+2359,non functional
+2865,functional
+7763,non functional
+11360,functional
+12671,functional
+2269,functional
+12412,functional
+5317,non functional
+3451,non functional
+11792,functional
+10097,functional
+5879,functional
+8061,functional
+1161,non functional
+4522,non functional
+14587,functional
+13248,functional
+2347,non functional
+14296,functional
+11926,functional
+13001,non functional
+10786,functional
+10523,functional
+8012,functional
+11276,non functional
+3306,non functional
+9685,functional
+4033,non functional
+1968,functional
+12045,non functional
+1883,non functional
+10675,functional
+14049,functional
+11406,functional
+8413,functional
+530,functional
+4419,functional
+5116,functional
+11008,non functional
+6382,functional
+706,functional
+13781,functional
+4466,functional
+10140,non functional
+9389,functional needs repair
+4386,functional
+12903,non functional
+7797,non functional
+2435,non functional
+14512,functional
+3724,functional
+3780,functional
+1951,functional
+6076,functional
+13836,functional
+8644,functional
+14726,functional
+36,functional
+14686,non functional
+5993,functional
+8471,functional
+12884,non functional
+12056,non functional
+11555,functional
+1824,functional
+10327,functional
+13762,functional
+6042,non functional
+13369,functional
+1055,functional
+5013,functional
+4071,non functional
+11078,functional
+7539,functional
+4234,functional
+14004,non functional
+1087,functional
+13898,functional
+10864,non functional
+5053,functional
+979,functional
+763,non functional
+6419,non functional
+9900,functional
+13797,functional
+12565,functional
+8286,functional
+10802,functional
+13802,functional
+7066,non functional
+5423,non functional
+2600,functional
+11621,non functional
+7827,functional
+3106,functional
+2722,functional
+3386,functional
+14167,functional
+11929,functional
+14716,functional
+7293,functional
+13255,functional
+1259,functional
+4083,functional
+10308,functional
+5345,functional
+14641,functional
+10087,non functional
+6860,functional
+8459,functional
+9267,functional
+12399,non functional
+9317,non functional
+9958,non functional
+6546,functional
+12217,functional
+12721,functional
+10467,non functional
+10924,functional
+2204,functional
+4408,non functional
+4379,functional
+3065,non functional
+427,functional
+16,functional
+4798,functional
+13757,non functional
+3847,non functional
+4724,functional
+2377,functional
+9515,functional
+2867,non functional
+9921,functional
+8098,functional
+12969,functional
+485,functional
+8033,non functional
+9566,non functional
+2710,functional
+11794,functional
+8111,functional
+12227,functional
+10530,functional
+5990,functional
+8534,functional
+7998,functional
+11087,functional
+2718,non functional
+7498,functional
+11027,functional
+9589,non functional
+5250,non functional
+11086,non functional
+11181,functional
+11236,non functional
+8634,functional
+1288,functional
+11964,functional
+12072,functional
+1539,functional
+11353,functional
+12114,non functional
+12014,functional
+5979,functional
+1605,non functional
+591,functional
+3691,non functional
+5097,functional needs repair
+3428,functional
+3856,non functional
+9328,functional
+3211,non functional
+176,functional
+10729,non functional
+3851,functional
+6642,non functional
+7840,functional
+8141,functional
+1303,non functional
+12679,functional
+8332,non functional
+10626,functional
+12168,functional
+14185,functional
+5394,functional
+3524,non functional
+12818,functional
+7568,functional
+13322,functional
+10361,non functional
+5519,functional
+7983,non functional
+1915,functional
+9558,functional
+6928,non functional
+12706,functional
+2550,functional
+10200,functional
+3461,functional
+9071,functional
+12338,functional
+1992,non functional
+6209,functional
+927,functional
+9569,functional
+3900,functional
+8639,non functional
+5147,functional
+12999,functional
+6062,functional
+11914,functional
+12517,functional
+3471,functional
+2437,functional
+11819,functional
+13785,functional
+11654,functional
+10823,functional
+5650,non functional
+4189,functional
+12534,functional
+10170,functional
+11804,non functional
+5883,non functional
+967,functional
+11326,functional
+14495,functional
+623,non functional
+605,functional
+5173,non functional
+720,non functional
+286,functional
+18,functional
+13992,functional
+6887,functional
+10705,non functional
+2353,non functional
+734,functional
+14753,functional
+11002,non functional
+6094,functional
+2331,functional
+309,functional
+4432,functional
+11144,non functional
+4139,functional
+6579,functional
+5731,non functional
+3439,functional
+10472,functional
+1586,non functional
+7022,functional
+7174,functional
+10543,non functional
+10137,functional
+5004,functional
+3582,non functional
+4381,functional
+7656,non functional
+5299,functional
+3932,functional
+14564,non functional
+193,functional
+9973,non functional
+2068,functional needs repair
+11684,non functional
+13418,functional needs repair
+2093,functional
+1769,functional
+12096,functional
+746,non functional
+14125,non functional
+14534,functional
+9286,non functional
+14404,functional
+7053,functional
+4068,functional
+2487,functional
+3909,functional
+964,non functional
+745,non functional
+2870,functional
+1939,functional
+13088,functional
+10590,functional
+130,functional
+4666,non functional
+11095,functional
+10285,non functional
+3112,non functional
+6252,functional
+2904,non functional
+11118,non functional
+4242,functional
+13174,functional
+7209,functional
+13908,functional
+5632,non functional
+9845,functional
+14130,non functional
+7047,non functional
+13518,functional
+6471,non functional
+7100,functional
+11719,non functional
+5245,non functional
+5710,non functional
+5625,functional
+12119,functional
+14847,functional
+7284,functional
+2529,functional
+1654,functional
+2136,functional
+9624,functional
+8489,non functional
+17,non functional
+12972,functional needs repair
+9048,non functional
+26,non functional
+14608,non functional
+8320,non functional
+2907,functional
+10105,functional
+14111,functional needs repair
+6478,functional
+3697,non functional
+12532,functional
+5974,functional
+2892,functional
+3677,functional
+2526,functional
+3725,functional
+14591,non functional
+9865,functional
+7200,non functional
+5289,non functional
+8343,non functional
+11200,functional
+13344,functional
+12686,non functional
+77,functional
+8545,functional
+9310,functional
+204,non functional
+12291,functional
+5749,functional
+4426,functional
+7447,non functional
+7,non functional
+1020,non functional
+13089,functional
+1500,non functional
+2057,functional
+11538,non functional
+3887,functional
+13723,functional
+7469,functional
+5303,functional
+14598,non functional
+11986,functional needs repair
+2610,non functional
+12650,functional
+6284,non functional
+10762,functional
+8583,functional
+12173,functional
+13711,functional
+5146,functional
+6443,non functional
+806,functional
+6578,functional
+6539,functional
+9122,functional
+1690,functional
+2994,non functional
+14603,functional
+12871,non functional
+4611,functional
+13523,functional
+9167,non functional
+10908,non functional
+10810,non functional
+7956,functional needs repair
+1497,functional
+13019,functional
+13684,non functional
+14744,functional
+13224,non functional
+6871,functional
+3050,functional
+6191,functional
+10660,non functional
+6943,functional
+5783,non functional
+8270,functional
+9732,functional
+12030,functional
+5168,functional
+7286,functional
+7141,functional
+7534,functional
+9697,functional
+5751,functional
+7084,functional
+1776,functional
+13951,non functional
+8050,non functional
+10869,non functional
+762,functional
+8805,non functional
+13847,functional
+11686,non functional
+5814,functional
+10345,functional
+2292,functional
+4911,functional
+5853,non functional
+2475,non functional
+6791,non functional
+12316,functional
+12146,non functional
+5843,functional
+13349,functional
+14815,non functional
+4353,functional
+11507,non functional
+12958,functional
+1130,functional
+4076,functional
+5571,functional
+62,functional
+13585,functional
+8127,functional
+12310,non functional
+12204,functional
+13991,functional
+4325,functional
+5734,functional
+4511,functional
+8406,non functional
+4577,non functional
+1847,non functional
+11327,functional
+3551,non functional
+3473,functional
+9883,functional
+1567,functional
+2633,functional
+11652,functional
+5240,non functional
+10909,non functional
+10159,non functional
+5987,functional
+2360,non functional
+11133,functional
+8880,non functional
+13791,functional
+1146,non functional
+9892,functional
+7273,functional
+6724,functional
+3085,non functional
+2095,functional
+3728,non functional
+7324,non functional
+10670,non functional
+7678,functional
+6863,functional
+1745,functional
+11543,functional
+6962,non functional
+13370,non functional
+3948,functional
+1378,functional
+12925,functional
+2507,non functional
+3200,non functional
+12404,functional
+2908,functional
+12314,non functional
+11606,functional
+11500,non functional
+4223,non functional
+7673,non functional
+7971,functional
+12906,functional
+12542,functional
+6897,non functional
+6521,non functional
+2810,functional
+14248,non functional
+8766,functional
+3910,functional
+1685,functional
+1064,functional
+985,functional
+10663,functional
+13340,non functional
+4766,functional
+12413,functional
+12306,functional
+9565,functional
+9870,non functional
+14051,functional
+11280,functional
+9502,functional
+12336,functional
+11644,non functional
+7719,functional
+2732,non functional
+11464,non functional
+8520,non functional
+5859,functional
+11346,functional
+6445,non functional
+10021,functional
+4224,non functional
+10891,functional
+9926,functional
+2222,non functional
+10232,functional
+9362,functional
+4830,non functional
+8912,functional
+8967,functional
+1172,non functional
+5714,functional
+14150,non functional
+11998,functional
+13337,non functional
+10594,non functional
+2038,functional
+8007,functional
+6468,functional
+11728,non functional
+11712,non functional
+13388,non functional
+4716,non functional
+7236,non functional
+1892,functional
+8515,functional
+10982,non functional
+12125,functional
+6361,functional
+3554,non functional
+8806,non functional
+11283,functional
+3438,functional
+14241,functional
+9052,non functional
+9748,non functional
+4052,functional
+221,non functional
+1350,non functional
+8175,non functional
+3671,non functional
+9199,non functional
+3839,functional
+11321,functional
+14060,functional
+2965,functional
+10199,functional
+6197,functional
+4305,functional
+9951,non functional
+10494,functional
+7375,non functional
+3460,non functional
+12865,functional
+10554,functional
+12411,non functional
+4896,non functional
+3101,functional
+333,functional
+10828,functional
+8028,functional
+7844,functional
+2924,functional
+12769,functional
+4391,functional
+8807,functional
+10878,functional
+11661,functional
+7577,non functional
+6515,non functional
+10156,non functional
+10950,functional
+6185,non functional
+9233,functional
+8096,non functional
+8878,functional
+6290,functional
+4206,functional
+339,non functional
+6446,non functional
+13472,non functional
+14543,functional
+9277,functional
+12020,non functional
+10247,non functional
+10534,non functional
+11805,functional
+2762,functional
+2237,functional
+10011,non functional
+7509,non functional
+5788,functional
+6529,non functional
+4313,non functional
+11198,functional
+9173,non functional
+226,functional
+1689,functional
+13373,functional needs repair
+11157,non functional
+2745,functional
+1701,functional
+5841,functional
+2268,functional
+3431,functional
+1371,functional
+13804,functional
+5684,functional
+11849,non functional
+135,functional needs repair
+5649,functional
+9497,functional
+9377,functional
+11828,functional
+1153,non functional
+23,non functional
+8933,functional
+7297,functional
+934,functional
+4627,functional
+4413,non functional
+7533,functional
+5323,functional
+4002,functional
+5566,functional
+4763,functional
+14127,non functional
+8730,functional
+7052,functional
+1528,non functional
+8568,functional
+14649,functional
+13981,functional
+2588,functional
+10469,non functional
+11776,functional
+7119,non functional
+8843,functional
+10848,functional
+6085,functional
+14542,functional
+9639,functional
+4797,functional
+5576,functional
+9668,functional needs repair
+9060,functional
+3755,non functional
+9148,non functional
+8274,functional
+5267,functional
+6651,non functional
+4996,non functional
+6307,functional
+5861,non functional
+14334,functional
+652,functional
+6920,functional
+10360,functional
+13672,functional
+7809,functional
+3140,functional
+9999,functional
+6730,non functional
+4824,functional
+11696,functional
+2620,functional
+7101,functional
+2230,functional
+2828,functional
+9713,functional
+4786,functional
+4865,functional
+5767,functional
+9779,functional
+8010,non functional
+4336,functional
+4308,non functional
+10769,functional
+3099,non functional
+11863,functional
+6390,non functional
+14454,non functional
+5527,functional
+14510,non functional
+4474,functional
+13626,functional
+3976,functional
+2981,functional
+12071,non functional
+12790,functional
+10562,non functional
+8846,functional
+13593,functional
+5070,functional
+1648,non functional
+12733,non functional
+9073,functional
+7906,functional
+13064,functional
+12881,functional
+11541,functional
+1004,functional
+8825,functional
+416,non functional
+10257,functional
+1839,functional
+4192,functional
+1353,functional
+13125,non functional
+13048,non functional
+13075,non functional
+5680,functional
+11899,non functional
+7302,non functional
+10380,functional
+9915,functional
+5806,functional
+3774,functional
+9316,non functional
+10431,functional
+11141,functional
+11556,non functional
+7665,functional
+2285,functional
+7996,non functional
+14606,non functional
+2836,functional
+13482,functional
+12211,functional
+11155,functional
+1249,functional
+8731,functional
+4822,functional
+7088,non functional
+4670,non functional
+12497,functional
+8774,non functional
+10025,functional
+5041,functional
+12569,functional
+3885,functional
+4485,functional
+14453,functional
+1578,functional
+2086,functional
+11079,functional
+13653,functional
+3832,non functional
+9189,functional
+13697,functional
+11142,functional
+4468,non functional
+10207,functional
+3499,functional
+7800,functional
+12773,non functional
+3232,functional
+550,functional
+8507,functional
+10690,functional
+1095,functional
+4875,functional
+8203,functional
+10905,functional
+2436,functional
+791,functional
+552,functional
+1861,non functional
+4744,functional
+7813,functional
+4365,functional
+13739,non functional
+2085,functional
+12298,non functional
+7934,non functional
+7889,non functional
+14314,non functional
+5448,non functional
+2036,functional
+11563,functional
+1056,non functional
+5189,functional needs repair
+3467,non functional
+2024,functional
+8526,functional
+2543,non functional
+8297,functional
+5175,functional
+14287,functional
+6212,non functional
+13326,functional
+10682,non functional
+11332,functional
+10659,functional
+13492,non functional
+398,functional
+9687,functional
+6811,non functional
+2121,non functional
+4684,non functional
+11517,non functional
+7356,functional
+804,functional
+1807,functional
+14799,functional
+14025,functional
+14518,functional
+4700,functional
+14813,non functional
+2233,functional
+7433,functional
+5611,non functional
+2330,functional
+3838,functional
+4398,non functional
+10324,functional
+14705,functional
+13630,functional
+13513,non functional
+7578,functional
+8651,functional
+14225,functional
+12117,functional
+3274,functional
+9849,non functional
+3852,non functional
+12618,non functional
+14217,functional needs repair
+10862,non functional
+6927,functional
+461,non functional
+11584,functional
+9989,functional
+5840,non functional
+11658,functional
+875,non functional
+9163,functional
+11559,functional
+7472,functional
+7264,functional
+12003,functional
+5018,functional needs repair
+2314,non functional
+13652,functional
+11337,functional
+2984,functional
+4553,non functional
+12050,functional needs repair
+13362,non functional
+13879,functional needs repair
+10386,functional
+10106,functional
+9912,non functional
+9001,non functional
+10103,functional
+5666,non functional
+8569,functional
+2622,non functional
+211,non functional
+5568,functional
+3347,functional
+13669,non functional
+1651,functional
+1264,non functional
+466,functional
+5984,functional
+8549,functional
+6034,functional
+12615,functional
+3702,functional
+4472,functional
+4110,functional
+9239,non functional
+3129,non functional
+14636,functional
+4447,functional
+723,non functional
+12145,non functional
+12197,functional
+4901,functional
+2853,functional
+3595,non functional
+13915,functional
+490,functional needs repair
+8385,non functional
+1299,non functional
+2821,functional
+6001,functional
+4839,functional
+3590,non functional
+9972,functional
+8236,functional
+3497,functional
+1876,non functional
+12245,non functional
+3571,functional
+10542,functional needs repair
+14739,functional
+13032,functional
+123,non functional
+9262,functional
+4473,functional
+127,functional
+5469,functional
+8408,functional
+14498,functional
+1360,non functional
+3186,functional
+4847,non functional
+7003,non functional
+10569,functional
+5238,functional
+10607,functional
+3858,non functional
+11290,functional
+9541,functional needs repair
+9320,non functional
+13707,functional
+7725,functional
+2520,functional
+1066,functional
+2858,functional
+2569,functional
+3754,non functional
+11948,functional
+4090,non functional
+4175,non functional
+913,functional
+14786,functional
+10731,functional
+4509,functional
+9524,functional
+10456,non functional
+8782,functional
+8483,functional
+2422,functional
+8481,functional
+10384,functional
+12823,non functional
+5528,functional
+8900,functional
+9609,non functional
+5998,functional
+2115,functional
+5121,functional
+2458,non functional
+3649,functional
+7249,functional
+2271,non functional
+7332,non functional
+596,non functional
+5462,functional
+10527,non functional
+11397,non functional
+10672,non functional
+5435,non functional
+6588,non functional
+2609,functional
+13066,functional
+1022,functional
+234,functional
+10711,non functional
+4337,functional
+5824,functional
+12821,non functional
+276,functional
+7464,non functional
+4539,non functional
+6677,functional needs repair
+12556,non functional
+14029,non functional
+1504,functional
+11710,functional
+2775,functional
+1407,functional
+12837,non functional
+11237,functional
+13965,functional
+1760,functional
+8314,functional
+11104,functional
+14537,functional
+6843,functional
+8465,functional
+1618,non functional
+2298,functional
+10306,non functional
+4556,functional
+6711,non functional
+10319,non functional
+10485,non functional
+6204,functional
+1042,functional
+6006,functional
+7560,functional
+11227,functional
+3094,functional
+257,functional
+6696,functional
+11121,functional
+11125,functional
+6037,functional
+4239,functional
+6308,functional
+4767,functional
+12290,functional
+13107,functional
+8359,functional
+11813,functional
+6207,functional
+10342,non functional
+13468,functional
+9602,functional
+9309,non functional
+8100,functional
+13740,non functional
+9453,non functional
+7494,functional
+14227,functional
+11214,non functional
+3917,functional
+6192,functional
+3687,functional
+9128,functional needs repair
+13769,non functional
+13770,functional
+7226,functional
+9821,functional
+5723,functional
+3220,non functional
+3971,functional
+7519,functional needs repair
+14223,functional needs repair
+7049,functional
+8647,functional
+7947,functional
+7252,functional
+654,non functional
+7801,non functional
+13571,functional
+13651,functional
+9475,functional
+2537,functional
+14247,non functional
+7870,functional
+3184,functional
+11802,functional
+9312,functional
+6592,non functional
+5344,non functional
+10026,non functional
+9827,functional
+9337,non functional
+5204,functional
+11635,functional needs repair
+13960,non functional
+3230,non functional
+11960,non functional
+11753,functional
+9966,functional
+4165,functional needs repair
+9283,functional needs repair
+5567,functional
+7942,functional needs repair
+12519,functional
+2585,functional
+13895,functional
+7864,functional
+13347,functional needs repair
+9885,non functional
+7045,non functional
+3483,functional
+9154,functional
+7283,functional
+13975,non functional
+12182,non functional
+4014,functional
+5161,non functional
+805,functional
+11356,functional
+9280,non functional
+11522,functional
+11186,functional
+5860,non functional
+8165,functional
+14665,functional
+5203,functional
+8710,functional
+8199,functional
+5442,non functional
+14081,functional
+13549,functional
+10717,functional
+13599,non functional
+9345,functional
+6955,functional
+7385,non functional
+9293,functional
+7904,functional needs repair
+4069,non functional
+2414,functional
+2452,functional
+14487,functional
+6456,functional
+13805,functional
+5209,non functional
+2425,functional
+10480,functional
+13806,functional
+11220,functional
+10791,non functional
+542,non functional
+1989,functional
+10515,functional
+8384,non functional
+1918,functional
+7588,functional
+9408,functional
+1565,functional
+1208,non functional
+11911,functional
+3855,non functional
+1302,non functional
+14826,functional
+3626,functional
+13272,functional
+7651,functional
+1576,functional
+1213,non functional
+5408,non functional
+9450,functional
+12908,functional
+3338,functional
+1290,non functional
+3393,functional
+9521,non functional
+143,functional
+4962,functional
+13387,functional
+13822,functional
+696,functional
+948,functional
+12996,non functional
+5059,functional
+8436,functional
+11779,non functional
+9241,non functional
+681,functional needs repair
+8498,functional needs repair
+9805,functional
+1970,functional
+10464,functional
+14629,functional
+12879,functional
+5341,functional needs repair
+5583,functional
+88,functional
+7553,non functional
+9147,functional
+13608,functional
+1216,functional
+5491,functional
+3470,functional
+10653,non functional
+1592,non functional
+7623,functional
+13171,non functional
+4464,functional
+8944,non functional
+8398,non functional
+7171,functional
+5134,non functional
+5433,non functional
+13397,functional
+10939,functional needs repair
+11716,non functional
+14721,functional
+13548,functional
+9467,functional
+8585,functional
+1738,functional
+9043,functional
+3759,functional
+10615,non functional
+13030,non functional
+2244,non functional
+2874,functional
+1089,functional
+358,functional
+690,functional
+2492,functional
+9282,functional
+11943,functional
+4483,functional
+10676,functional
+12934,functional
+109,non functional
+2262,non functional
+3600,non functional
+3308,functional
+2429,functional
+7182,functional
+8887,functional
+1328,non functional
+10460,functional
+904,functional
+13586,non functional
+14517,functional
+12690,functional
+14817,functional
+7014,functional
+9075,functional
+12594,functional
+9790,functional
+13552,functional
+8965,functional
+14206,non functional
+1187,functional
+7732,functional
+5569,functional
+6693,functional
+13073,non functional
+8392,functional
+10703,functional
+7861,non functional
+6932,non functional
+9151,non functional
+9895,non functional
+11861,functional
+13848,functional
+12223,functional
+2417,functional
+14410,functional
+2581,functional
+14791,non functional
+4811,non functional
+6938,functional
+12654,non functional
+402,functional
+792,functional
+2901,non functional
+1169,functional
+2643,functional
+10697,functional
+14615,functional
+6513,non functional
+10917,non functional
+14848,functional
+4940,non functional
+4551,functional
+14653,non functional
+13834,functional
+1887,non functional
+3219,non functional
+11310,non functional
+11286,non functional
+7370,functional
+13813,non functional
+13578,functional
+2694,functional
+13945,non functional
+4293,non functional
+3567,functional
+2003,functional
+468,non functional
+8954,functional
+5420,functional
+11199,non functional
+6254,functional
+5456,non functional
+9843,non functional
+4421,functional
+13773,non functional
+13494,functional
+11161,non functional
+1889,functional
+2225,non functional
+3060,functional
+5453,functional
+9789,non functional
+14648,functional
+13542,functional
+9754,non functional
+12219,non functional
+6667,functional
+5667,non functional
+2604,functional
+12915,functional
+14769,non functional
+2662,functional
+3712,functional
+13573,functional
+615,functional
+2817,non functional
+11649,functional
+9139,non functional
+10089,non functional
+4060,functional
+12363,non functional
+3925,functional
+8149,functional
+6757,functional
+11892,functional
+5038,functional
+6888,functional
+6758,functional
+5875,functional
+8415,non functional
+7753,functional
+8081,functional
+7556,functional
+1123,functional
+9595,functional
+4404,non functional
+1881,functional
+12450,functional
+11651,functional
+7004,functional
+1394,functional
+13560,non functional
+9232,functional
+11873,functional
+4735,functional
+6058,functional
+11288,non functional
+3892,non functional
+5467,non functional
+13920,non functional
+10046,non functional
+5140,functional
+13526,functional
+8154,non functional
+14733,functional
+12471,functional
+4702,functional needs repair
+13713,functional
+11054,functional
+2671,functional
+10073,functional
+877,non functional
+4321,non functional
+10167,functional
+6974,functional needs repair
+8901,functional
+6283,functional
+10958,functional
+1231,functional
+8305,non functional
+3203,non functional
+13318,functional
+13726,functional
+11528,functional
+8259,functional
+1679,non functional
+2062,non functional
+9600,non functional
+13467,functional needs repair
+9945,functional
+10051,functional
+6266,functional
+13068,non functional
+4144,functional needs repair
+3545,functional
+13954,functional
+1118,functional needs repair
+9535,non functional
+11274,functional
+13243,functional
+6603,non functional
+3485,functional
+10558,non functional
+380,functional
+3265,functional
+6473,functional
+4501,non functional
+12791,functional
+14128,functional
+11230,functional
+5008,functional
+4018,functional
+11597,non functional
+3993,functional
+3364,functional
+14748,non functional
+5077,functional
+6909,functional
+1833,non functional
+10822,functional
+6913,non functional
+11687,functional needs repair
+5412,functional
+4367,functional
+1574,functional
+8093,functional
+4646,non functional
+6548,functional
+12586,functional
+4997,non functional
+10213,functional
+12260,non functional
+13100,functional
+1649,functional
+4516,functional
+7771,non functional
+9116,functional
+4923,non functional
+13823,functional
+7061,functional
+7177,functional
+5610,non functional
+4771,functional
+11562,non functional
+7018,functional
+7890,functional
+13242,functional
+1145,functional
+8109,functional
+9840,functional
+11359,non functional
+9692,functional
+5328,functional
+4907,functional
+13235,functional
+12390,functional
+6721,functional
+9765,non functional
+5782,functional
+14056,non functional
+6995,functional
+2476,functional
+6247,non functional
+2780,functional
+12770,non functional
+3658,non functional
+3389,functional
+8984,non functional
+1841,functional
+2403,non functional
+9420,functional
+10734,functional
+12990,functional
+12800,functional
+6087,functional
+14386,functional
+8784,functional
+5575,functional
+8751,functional
+14816,functional
+5349,functional
+1716,functional
+7680,non functional
+8787,functional
+14348,functional
+4291,non functional
+9356,functional
+7087,non functional
+8143,functional
+2997,functional
+8938,functional
+14573,functional
+1228,functional
+1107,functional
+10783,non functional
+5099,non functional
+9842,functional
+3607,functional
+1820,functional
+11041,functional
+14270,functional
+4775,non functional
+10441,functional
+10470,functional
+6786,functional
+3283,functional
+10738,non functional
+11350,functional
+13941,non functional
+9385,functional
+4956,functional
+9203,functional
+10238,functional
+11708,functional
+12386,functional
+13094,functional
+13061,functional
+12505,functional
+14299,functional
+5818,functional
+3964,functional
+5348,non functional
+7839,functional
+9778,functional
+727,functional
+6415,non functional
+11019,functional
+8715,non functional
+11091,functional
+4064,non functional
+335,functional
+8315,functional
+7515,functional
+3824,functional
+8800,non functional
+8931,functional
+6447,functional
+6878,non functional
+5935,non functional
+3977,non functional
+14140,functional
+100,non functional
+3788,functional
+4571,non functional
+2236,functional
+14654,non functional
+1409,functional
+2552,non functional
+526,functional
+12073,functional
+14652,non functional
+14391,non functional
+14722,functional
+9947,functional
+6082,functional
+2208,non functional
+9168,functional
+12436,functional
+1284,functional
+14154,functional
+3777,non functional
+3953,functional
+7563,non functional
+6115,functional
+319,non functional
+272,functional
+3134,functional
+5158,non functional
+1389,functional
+2756,functional
+8735,functional
+3745,functional
+12212,functional
+9300,functional needs repair
+5902,functional
+9021,functional
+6976,functional
+5784,functional
+7527,non functional
+4098,non functional
+4453,functional
+414,functional
+4039,functional
+9871,functional
+5663,functional
+8928,non functional
+13286,functional
+8857,functional
+1266,functional
+11999,functional
+10478,functional
+9802,non functional
+914,non functional
+7241,functional
+13964,functional
+7124,functional
+11289,functional
+539,functional
+2777,functional
+13193,functional
+983,functional
+14403,functional
+6157,functional
+6214,non functional
+7201,functional
+1922,non functional
+10565,functional
+4095,non functional
+14325,non functional
+8232,functional
+1599,functional
+13819,functional
+282,functional
+5444,non functional
+4770,functional
+700,functional
+9158,functional
+5570,functional
+10220,functional
+8115,non functional
+12093,non functional
+1431,functional needs repair
+10358,non functional
+8363,non functional
+12786,non functional
+8517,functional
+11264,functional
+13742,non functional
+2284,non functional
+2378,functional
+3641,functional
+14667,functional
+14470,functional
+6205,functional
+881,non functional
+8211,non functional
+5980,functional
+11261,functional
+8071,functional
+2406,functional
+5586,functional
+10241,functional
+8615,functional
+4086,non functional
+11405,non functional
+13013,functional
+2723,non functional
+10000,functional
+11158,functional
+8329,functional
+7774,non functional
+2769,functional
+2696,functional
+10547,functional
+2106,functional
+9123,functional
+7191,functional
+11801,functional
+13200,functional
+6949,functional needs repair
+215,functional
+689,functional
+3815,functional
+11184,functional
+6685,functional
+13251,non functional
+6589,functional
+5086,non functional
+4998,functional
+12375,functional
+7626,functional needs repair
+11146,functional
+3985,functional
+10487,non functional
+4918,functional
+9831,functional
+477,functional
+4598,non functional
+11219,functional
+11942,functional
+11978,functional
+14773,non functional
+395,non functional
+13996,functional
+4478,non functional
+4975,functional
+3414,functional needs repair
+11820,functional
+9646,functional
+9746,non functional
+3078,functional
+869,non functional
+1564,non functional
+9653,non functional
+651,functional
+8027,functional
+9917,non functional
+2379,functional
+11204,functional
+5821,non functional
+5437,functional
+320,functional
+4951,functional
+10567,non functional
+10962,functional
+12538,functional
+2183,functional
+13406,functional
+4288,functional
+10994,functional
+12583,non functional
+7391,non functional
+8358,non functional
+11472,non functional
+1924,non functional
+8500,functional
+13422,non functional
+13441,functional
+11711,non functional
+13202,functional
+6525,non functional
+12457,functional
+1165,non functional
+14428,functional
+8994,functional
+13054,functional
+12678,functional
+3269,functional
+13315,non functional
+6815,functional
+571,functional
+3354,functional
+10006,non functional
+7300,non functional
+10947,functional
+9038,non functional
+7687,functional
+9877,non functional
+528,functional needs repair
+7126,non functional
+10311,non functional
+12238,functional
+2914,functional
+4779,functional
+6781,functional needs repair
+2516,functional
+3654,non functional
+2923,functional
+7106,functional
+8910,functional
+7138,non functional
+8198,functional
+9392,functional
+295,functional
+3906,non functional
+12086,non functional
+8155,functional
+3846,non functional
+10362,non functional
+1502,non functional
+14211,functional
+8317,non functional
+392,functional
+12327,functional
+13119,non functional
+13942,functional
+7921,functional
+13408,functional
+14172,non functional
+4845,functional
+8524,functional
+10611,functional
+12537,functional
+8799,non functional
+14727,functional
+436,functional
+11213,non functional
+6240,functional
+2129,non functional
+3604,functional
+1733,non functional
+2007,functional
+12263,functional
+1331,non functional
+7352,non functional
+12098,functional
+10677,functional needs repair
+2814,functional
+1758,functional
+2690,non functional
+6112,functional
+11928,non functional
+10505,non functional
+8619,functional
+12361,non functional
+1505,functional
+11933,non functional
+8884,non functional
+470,non functional
+4250,non functional
+370,non functional
+5314,functional
+11713,non functional
+10144,functional
+1799,functional
+2661,non functional
+14124,non functional
+4664,functional
+1121,functional
+2133,non functional
+7064,functional
+14044,non functional
+10617,functional
+8552,non functional
+1142,functional
+12271,functional
+9901,functional
+6125,functional
+11177,non functional
+10428,functional
+9517,non functional
+10286,functional
+6444,functional
+3920,non functional
+11431,functional
+14491,functional
+5251,non functional
+14262,functional
+3693,functional
+3192,functional
+2648,functional
+7417,functional
+9549,non functional
+4549,functional
+12350,functional
+10989,non functional
+7368,functional
+5127,non functional
+8,non functional
+3266,functional
+4841,functional
+9351,non functional
+5327,non functional
+9227,functional
+624,functional
+2118,functional
+11795,functional
+8382,functional
+2763,functional
+14340,non functional
+6638,functional
+9456,functional
+13916,functional needs repair
+3676,non functional
+2937,non functional
+1451,functional
+9836,functional
+12702,functional
+1800,functional
+4630,non functional
+5926,functional
+10451,functional
+13146,non functional
+3210,functional
+4427,non functional
+1467,functional
+657,non functional
+708,functional
+13732,functional
+13176,functional
+9838,functional
+11868,functional
+2982,functional
+3853,non functional
+3526,non functional
+10418,non functional
+5005,functional
+4262,functional
+13904,non functional
+7065,non functional
+8214,functional
+12469,functional
+12888,functional
+7215,non functional
+586,functional
+2791,non functional
+5091,non functional
+12185,functional
+12859,functional
+9531,functional
+1498,non functional
+3424,functional
+13811,non functional
+9538,non functional
+13116,functional
+10533,functional
+7157,functional
+4222,functional
+8227,non functional
+5404,functional
+8893,functional
+10134,functional
+3995,non functional
+5615,functional
+3785,functional
+5621,functional
+8252,non functional
+4773,non functional
+14698,functional
+6716,functional
+11962,non functional
+7152,functional
+13351,functional
+12584,functional
+7054,functional
+1489,non functional
+4441,functional
+4054,functional needs repair
+12611,functional
+12853,functional
+14106,functional
+5950,non functional
+5136,functional
+11164,functional
+5010,functional
+12819,functional
+4100,functional
+9979,functional
+3927,non functional
+5228,functional needs repair
+12910,functional
+14783,functional
+6348,functional
+4092,non functional
+3441,functional needs repair
+8820,non functional
+8544,functional needs repair
+5797,functional
+13210,functional
+2970,functional needs repair
+581,functional
+10466,functional
+9201,non functional
+10834,functional
+7328,functional
+6130,non functional
+9540,functional
+3908,non functional
+6710,non functional
+6249,non functional
+10763,non functional
+8416,non functional
+2899,functional
+7897,non functional
+1280,non functional
+8174,functional
+7290,non functional
+217,functional
+980,functional
+10693,functional
+8241,non functional
+8110,functional
+2906,functional
+1620,functional
+8581,functional needs repair
+8233,functional
+10725,functional
+7955,functional
+13280,functional
+2496,functional
+13357,functional
+3930,functional
+14420,functional
+6926,functional
+8138,non functional
+6635,functional
+3198,non functional
+10340,functional
+8681,functional
+2721,functional
+4211,non functional
+3913,functional
+1737,functional
+13772,functional
+13623,functional
+6262,functional
+34,functional
+13576,functional
+13204,functional
+13896,functional
+8443,functional
+5270,functional
+4924,functional
+10226,functional
+6640,non functional
+3122,functional
+13410,functional
+386,functional
+3596,functional
+13292,functional
+5972,functional
+10631,functional
+1171,functional
+1432,non functional
+4558,non functional
+8808,non functional
+10932,functional
+11735,functional
+6485,functional
+13529,functional
+11783,non functional
+8435,non functional
+12681,functional
+617,non functional
+10860,functional
+9400,functional
+3282,functional
+11294,functional
+7190,non functional
+7562,non functional
+7430,non functional
+9864,functional
+5581,functional
+4363,functional
+1982,functional
+3202,functional
+5522,non functional
+7834,functional
+6202,non functional
+12328,functional
+3746,functional
+3673,functional
+3583,functional
+14380,non functional
+1125,non functional
+1788,functional
+11351,functional
+505,non functional
+11136,functional
+2249,functional
+14456,non functional
+3248,functional needs repair
+11278,functional
+4725,non functional
+11615,functional
+5066,functional
+11674,non functional
+4050,non functional
+12807,non functional
+14736,non functional
+29,functional
+4104,non functional
+917,functional
+13987,functional
+8971,functional
+8845,non functional
+2971,non functional
+14599,non functional
+4430,functional
+9010,non functional
+12131,non functional
+6153,non functional
+13201,non functional
+6325,functional
+9655,functional needs repair
+644,non functional
+2891,functional
+6463,functional
+12240,functional
+7769,functional
+9272,functional
+9369,non functional
+5219,functional
+2368,functional
+8574,non functional
+8222,functional
+1005,functional needs repair
+1225,functional
+13195,non functional
+2798,functional
+13095,functional needs repair
+933,non functional
+4271,functional
+8847,functional
+2993,functional
+4804,functional
+6201,functional
+1579,functional
+8201,functional
+3614,functional
+6230,functional
+12861,non functional
+13087,non functional
+7979,functional
+10153,functional
+6882,functional
+142,non functional
+12856,functional needs repair
+1995,functional
+4860,functional needs repair
+7265,functional needs repair
+12074,functional
+9089,functional needs repair
+13070,functional
+1541,non functional
+9417,functional
+14157,non functional
+3107,non functional
+2741,functional
+12183,functional
+2134,functional
+3426,non functional
+13830,functional
+4038,functional
+3084,functional
+10919,functional
+9188,functional
+607,non functional
+2558,non functional
+3765,functional
+1179,functional
+3196,functional
+12922,functional
+5630,non functional
+13674,functional
+4514,functional
+6303,non functional
+6762,functional
+8494,non functional
+13765,functional
+13233,functional
+1148,functional
+2767,functional
+8687,functional
+9307,functional
+2105,non functional
+2871,functional
+6132,non functional
+3411,functional
+6472,functional
+14352,non functional
+3236,functional
+7581,non functional
+4254,functional
+6580,functional
+14311,functional
+5565,non functional
+4973,non functional
+6585,functional
+2956,functional
+2256,non functional
+8684,functional
+3888,non functional
+1928,non functional
+14613,non functional
+892,non functional
+8707,non functional
+13709,non functional
+1311,functional
+7984,functional
+7952,functional
+3727,functional
+12527,non functional
+3589,functional
+5854,non functional
+12932,functional
+11683,non functional
+4784,non functional
+8495,functional needs repair
+9284,non functional
+1844,non functional
+609,non functional
+6837,functional
+90,functional
+2088,functional
+820,functional
+2919,non functional
+1848,functional
+6911,functional
+4774,functional
+12307,functional
+8451,functional
+6818,non functional
+12388,non functional
+9402,non functional
+13439,non functional
+10934,functional
+2154,functional
+2245,functional
+13222,functional
+1555,functional
+1085,functional
+8325,non functional
+6517,functional
+3314,functional
+2335,functional
+11738,functional needs repair
+14831,functional
+2716,functional
+2099,functional
+8758,non functional
+12169,non functional
+4932,functional
+13479,non functional
+1920,functional
+8905,non functional
+4680,functional
+5120,functional needs repair
+9012,functional
+13961,functional
+12403,functional
+3553,non functional
+14198,non functional
+13758,functional needs repair
+9818,non functional
+9037,non functional
+13815,functional
+11814,non functional
+13216,functional
+2549,non functional
+134,functional
+13617,functional
+5588,functional
+13911,functional
+2393,functional needs repair
+464,non functional
+1485,functional
+13179,functional
+13635,non functional
+7580,non functional
+8249,non functional
+8676,functional
+10956,functional
+5886,functional
+1523,functional
+10656,functional
+2345,non functional
+6554,functional
+3974,functional
+97,functional
+8157,non functional
+11508,functional
+10212,functional
+13530,functional
+10733,functional
+9103,functional
+4672,functional needs repair
+9457,functional
+6509,functional
+8048,non functional
+4955,non functional
+13455,functional
+11182,functional
+5653,non functional
+116,non functional
+9160,functional
+12672,functional
+7817,functional
+439,functional
+9787,non functional
+2687,functional
+14538,non functional
+2639,functional
+1164,functional
+356,functional
+1212,functional
+834,functional
+13747,functional
+7869,functional
+11202,functional
+1645,functional
+10809,functional
+4711,functional needs repair
+8052,non functional
+7823,functional
+6035,functional
+12281,functional
+13483,non functional
+1244,non functional
+9083,functional
+5705,functional
+8438,functional
+9445,functional
+3516,functional
+11196,functional
+551,functional
+6466,functional
+6487,non functional
+10662,functional
+13314,functional
+7017,functional
+3137,non functional
+12966,functional needs repair
+5921,non functional
+10141,functional
+3033,functional
+4194,functional
+10691,functional
+11625,functional
+2808,non functional
+7755,functional
+8087,functional
+1285,functional
+2921,non functional
+9415,non functional
+583,non functional
+9971,functional
+12188,functional
+261,functional
+8237,functional
+5170,functional
+7721,functional
+11855,functional
+4656,functional
+7761,functional
+5613,functional
+14110,functional
+3462,non functional
+4548,non functional
+14633,non functional
+12893,non functional
+3019,functional
+3653,functional needs repair
+3165,non functional
+4690,non functional
+11941,functional
+3131,functional
+12379,functional
+7831,functional
+6210,functional
+13445,functional
+6720,non functional
+6450,functional
+1762,functional
+7080,non functional
+12311,functional
+2726,functional
+5828,functional
+13477,functional
+5111,functional
+5614,non functional
+11439,functional
+1329,functional
+5092,functional
+10865,functional
+13917,functional
+11336,functional
+12607,non functional
+8282,functional
+8485,functional
+11793,functional
+10421,non functional
+1039,non functional
+3013,functional
+11993,functional
+10288,non functional
+10584,functional
+3353,functional
+2224,non functional
+9404,functional
+8576,functional
+5310,functional
+7314,non functional
+11971,functional
+729,functional
+12514,functional
+9273,non functional
+11766,functional
+1607,non functional
+9574,non functional
+1644,functional
+2128,non functional
+12864,functional
+10242,functional
+7891,functional
+5833,non functional
+14137,functional
+1503,functional
+6744,functional
+8269,functional
+9629,functional
+476,non functional
+10416,functional
+12727,functional
+10132,functional
+12597,non functional
+120,non functional
+1921,functional
+3513,functional
+8547,functional
+11300,non functional
+10816,functional
+2454,functional
+8065,non functional
+1052,non functional
+5225,non functional
+7584,non functional
+6381,functional
+482,non functional
+14381,functional
+12917,functional
+6263,functional
+10511,functional
+9504,functional
+13456,functional
+1616,functional
+13331,functional
+4755,non functional
+5363,functional
+9359,non functional
+2210,non functional
+13152,functional
+5822,non functional
+5273,functional
+796,non functional
+4954,non functional
+7005,non functional
+8476,functional
+10169,functional
+13615,functional
+13827,functional
+8345,functional
+5631,functional
+9572,non functional
+2683,non functional
+5582,non functional
+11388,functional
+10094,non functional
+11981,non functional
+7877,functional
+9425,functional
+2190,functional
+846,functional
+8838,non functional
+1813,functional
+9246,functional
+14067,non functional
+8197,functional
+9823,functional
+13499,functional
+2135,functional
+13976,functional
+4157,non functional
+4794,functional
+4893,non functional
+235,functional
+14477,non functional
+4020,functional
+6117,functional
+1062,functional
+13350,functional
+6383,non functional
+8331,functional
+9537,functional
+11927,non functional
+10277,non functional
+756,non functional
+12596,functional
+4673,non functional
+1919,functional
+5855,functional
+2708,functional
+2879,non functional
+2755,functional
+2754,non functional
+664,functional
+6820,non functional
+7083,non functional
+9638,functional
+3048,non functional
+1774,non functional
+14213,functional
+3480,functional
+1596,functional
+4026,functional
+266,non functional
+7155,functional
+4502,functional
+14845,non functional
+11648,non functional
+13287,functional
+3703,functional
+6335,functional
+872,non functional
+1852,non functional
+4929,non functional
+13622,functional
+6022,non functional
+14121,non functional
+70,non functional
+11383,non functional
+7865,functional
+1521,functional
+11387,functional
+6712,functional
+8371,functional
+10206,non functional
+1414,functional
+12896,functional
+7212,functional
+14639,non functional
+13113,functional needs repair
+11392,functional
+7093,functional
+4126,functional
+13474,functional
+12115,functional
+6586,functional
+11840,functional
+1628,functional
+13632,functional
+7208,functional
+13035,functional
+1569,functional
+5771,functional
+10555,functional
+10029,functional
+11641,non functional
+6905,functional
+12483,functional
+1775,functional
+13491,functional
+3002,functional
+7676,functional
+4007,functional
+9295,functional
+921,non functional
+2169,non functional
+4815,functional
+9229,functional needs repair
+3708,functional
+12801,functional
+5556,non functional
+1983,functional
+11695,functional
+6305,functional
+9919,functional
+3130,functional
+13426,functional
+2655,non functional
+6453,functional
+7505,non functional
+6223,functional
+11448,functional
+908,functional
+10674,functional
+9055,non functional
+14734,functional
+3825,functional
+12709,functional
+13481,functional
+9853,non functional
+11423,functional
+1612,non functional
+4155,non functional
+506,functional
+6133,non functional
+6286,functional
+8262,functional
+7327,functional
+8582,functional
+6594,non functional
+3790,functional
+5856,functional
+2770,functional
+1608,functional
+5071,functional
+5542,functional
+2760,functional
+635,functional
+5520,non functional
+3001,non functional
+2898,functional
+6418,functional
+6261,non functional
+12278,non functional
+1898,functional
+13614,functional
+6687,functional
+2789,non functional
+6785,non functional
+6678,functional
+14427,non functional
+9603,functional
+5551,non functional
+5867,non functional
+11569,functional
+7858,non functional
+9669,non functional
+4801,functional
+14007,functional
+3263,functional
+8834,functional
+12377,functional
+7220,functional
+12088,functional
+13613,functional
+7917,non functional
+10190,functional
+3464,non functional
+6164,non functional
+14112,functional
+1372,non functional
+4167,non functional
+2203,non functional
+7743,functional
+13778,non functional
+13787,functional
+14393,functional
+13166,non functional
+14255,functional
+11130,functional
+8318,functional
+4080,functional
+14472,non functional
+1763,non functional
+5508,functional
+665,functional
+9866,non functional
+663,functional
+5795,non functional
+4991,functional
+2327,functional
+6243,functional
+3738,non functional
+10406,functional needs repair
+5160,functional needs repair
+8482,functional
+13157,non functional
+10930,functional
+13569,functional
+6328,functional
+1658,non functional
+11251,non functional
+1730,functional
+9429,non functional
+1543,functional needs repair
+9806,functional
+9018,non functional
+728,non functional
+9253,functional
+12739,functional
+9547,non functional
+5320,non functional
+11997,non functional
+1969,non functional
+6182,functional
+4177,functional
+7301,non functional
+13403,functional
+13203,functional
+6074,functional
+8953,functional
+8372,functional
+8022,functional
+14143,functional
+8821,functional
+5523,functional
+13820,functional
+5752,non functional
+2629,non functional
+8499,functional
+4037,functional
+13077,non functional
+1635,non functional
+5378,functional
+9459,functional
+4063,non functional
+5260,non functional
+9672,non functional
+390,non functional
+6004,functional
+10035,non functional
+1178,functional
+267,non functional
+3495,non functional
+8518,functional
+13905,functional
+5914,non functional
+13276,functional
+10985,functional needs repair
+8826,functional
+8444,functional
+8376,functional
+13607,functional
+4599,functional
+14411,non functional
+2334,non functional
+8868,functional
+752,functional
+3258,non functional
+12167,functional
+12662,functional
+3303,functional
+1265,non functional
+1999,functional
+14585,functional
+15,functional
+2131,functional
+13375,functional
+1232,non functional
+10624,functional
+1084,functional
+5704,functional
+9608,functional
+13644,functional
+9908,non functional
+10532,functional
+8101,functional needs repair
+10951,non functional
+10826,functional
+9011,non functional
+12019,non functional
+8579,functional
+2017,non functional
+2072,functional
+9750,functional
+11782,functional
+11047,functional
+2488,non functional
+7778,functional
+4423,functional
+7650,functional
+4757,functional
+11453,non functional
+7055,non functional
+6426,functional
+4282,functional
+11703,non functional
+13140,non functional
+8278,non functional
+4114,functional
+455,non functional
+14092,non functional
+4395,functional
+4465,non functional
+3026,non functional
+801,functional
+6703,non functional
+14259,functional
+10832,non functional
+7179,non functional
+2423,functional
+991,functional
+8390,functional
+13925,functional needs repair
+327,non functional
+2352,functional
+1322,non functional
+329,functional
+1755,non functional
+1182,non functional
+13789,functional
+10596,functional
+1023,non functional
+3397,functional
+12772,non functional
+1662,functional
+10495,functional
+7394,functional
+2962,non functional
+9236,functional
+7457,functional
+12349,non functional
+6679,non functional
+11101,non functional
+12937,functional
+8617,functional
+4207,functional
+11789,functional
+5728,non functional
+472,non functional
+4636,non functional
+7857,non functional
+1930,non functional
+9833,functional
+479,non functional
+10727,non functional
+592,non functional
+8701,functional
+14708,functional
+9884,non functional
+11588,functional
+12877,functional
+1636,non functional
+13112,non functional
+9785,functional
+12511,functional
+11248,non functional
+11877,non functional
+11485,functional
+11949,functional
+5885,functional
+5757,non functional
+5362,functional
+8720,functional
+8132,non functional
+11991,functional
+4176,non functional
+5105,non functional
+12449,functional
+3845,non functional
+11007,functional
+12683,functional
+793,functional
+3141,non functional
+7438,functional
+7129,functional
+6121,non functional
+12805,functional
+7292,non functional
+12356,functional
+5790,functional
+6071,functional
+705,functional
+4980,functional
+9465,non functional
+7367,non functional
+3063,non functional
+12226,functional
+7197,functional
+11159,functional
+9143,functional
+8458,functional
+6379,functional
+11468,non functional
+10483,non functional
+1829,functional
+3741,non functional
+5518,non functional
+3291,non functional
+1140,functional
+1098,non functional
+12961,functional
+9096,non functional
+9363,functional
+3580,functional
+14069,non functional
+9536,functional
+5913,functional
+14177,functional
+5194,non functional
+12485,functional
+190,functional
+10374,functional
+2157,functional
+6432,non functional
+10411,functional
+10941,functional
+1908,non functional
+13017,functional
+13365,functional
+9352,functional
+1240,non functional
+7901,non functional
+4800,non functional
+12051,functional
+8657,functional
+5478,non functional
+6489,functional
+698,functional
+8450,functional
+4261,non functional
+4163,functional
+3399,functional
+13421,functional
+11787,functional
+7700,non functional
+6464,functional
+10761,functional
+950,functional
+11679,non functional
+14465,non functional
+4138,functional
+1782,non functional
+13218,functional
+4714,functional
+7735,non functional
+11035,non functional
+802,functional
+2059,functional
+7510,functional needs repair
+4581,functional
+6380,functional needs repair
+12563,functional
+11663,non functional
+5485,non functional
+5384,functional
+6451,functional
+5724,non functional
+2407,functional
+9550,functional
+13597,functional
+10235,non functional
+4529,non functional
+7175,non functional
+4247,non functional
+569,non functional
+4644,functional
+6241,functional
+13829,non functional
+10438,functional
+3374,functional
+8765,non functional
+12428,functional
+8554,non functional
+11479,functional
+11698,functional
+9341,non functional
+11103,non functional
+10961,functional
+13262,functional
+321,functional
+10419,functional
+13055,non functional
+4728,functional
+2811,functional
+9729,functional
+2311,functional needs repair
+12041,non functional
+2305,non functional
+2839,non functional
+5080,functional
+14609,non functional
+2472,non functional
+14600,functional
+13398,functional
+7628,functional
+12774,functional
+9881,non functional
+7767,functional
+8680,functional
+11065,functional
+12447,functional
+1893,functional
+895,functional
+1379,non functional
+4803,functional needs repair
+4120,non functional
+11218,non functional
+5562,non functional
+12113,functional
+2080,non functional
+6771,non functional
+12867,functional
+10012,functional
+10573,non functional
+11304,non functional
+10315,non functional
+956,functional
+4869,non functional
+4660,functional
+12163,functional
+7482,non functional
+8655,functional
+9705,functional
+7247,non functional
+3046,functional
+10833,functional needs repair
+7501,non functional
+13342,non functional
+8014,non functional
+10205,functional
+13082,functional
+8553,non functional
+9942,functional needs repair
+14559,functional needs repair
+7474,functional
+14522,functional
+14275,functional
+12026,functional
+9924,functional
+7250,functional
+2804,functional
+3679,non functional
+5358,functional
+10981,functional
+5970,functional
+11604,functional
+480,functional
+6825,non functional
+11717,non functional
+3066,functional
+10486,non functional
+8648,functional
+1200,functional
+670,non functional
+13291,functional
+5221,functional
+6141,functional
+9774,functional
+10507,functional
+223,functional
+4764,functional
+13795,functional
+9887,non functional
+10827,functional
+7140,non functional
+11263,functional
+2880,functional
+4561,non functional
+1430,functional
+10146,non functional
+8598,functional
+8970,functional
+7716,functional
+12677,functional
+6645,functional
+8195,functional
+1933,functional
+10999,functional
+6439,non functional
+9407,functional
+11156,functional
+8387,functional
+8972,non functional
+10413,functional
+1043,non functional
+2626,non functional
+11542,non functional
+3990,functional
+4402,non functional
+8501,functional
+5594,functional
+1035,non functional
+4596,non functional
+14376,functional
+13079,functional
+14583,non functional
+13756,functional
+8995,non functional
+9596,functional
+11798,functional
+14730,functional
+12378,non functional
+6739,non functional
+2565,non functional
+660,functional
+7444,functional
+1287,functional
+2834,functional
+12343,non functional
+2178,functional
+9586,functional
+14279,functional
+5521,non functional
+57,non functional
+10968,non functional
+8956,functional
+7739,functional
+6796,functional
+8968,functional
+1912,functional
+3256,non functional
+4500,functional
+1615,functional
+3527,non functional
+10829,non functional
+4049,functional
+12941,non functional
+6972,functional
+492,functional
+5671,functional
+3427,functional
+8186,non functional
+5167,non functional
+4743,functional
+10116,non functional
+1156,functional
+3612,functional
+421,functional
+10371,functional
+4278,functional
+12042,functional
+7649,functional
+12058,functional
+6951,non functional
+13918,non functional
+11760,functional
+2746,functional needs repair
+10452,non functional
+9961,non functional
+5616,functional
+179,functional
+9411,functional
+4216,functional
+8898,functional
+3862,functional
+2779,functional
+887,non functional
+5574,functional
+6347,functional
+9051,non functional
+13694,non functional
+12448,functional
+5488,functional
+8708,non functional
+8973,functional
+10592,non functional
+3292,functional
+1382,functional
+7277,functional
+12326,functional
+11843,non functional
+4602,functional
+1401,functional
+481,functional
+6865,functional
+8998,functional
+14120,functional
+12614,non functional
+7239,non functional
+14164,non functional
+11112,non functional
+9974,non functional
+14313,functional
+14809,functional
+5968,functional needs repair
+5940,functional
+10393,non functional
+3061,functional
+6186,functional
+1735,functional
+603,functional
+5878,non functional
+35,functional
+8164,functional
+14675,functional
+7393,functional
+12500,functional
+12711,functional
+2849,functional
+13423,non functional
+7940,functional
+2670,functional
+11076,non functional
+12663,functional
+6867,non functional
+12325,non functional
+10700,functional
+10037,non functional
+4823,functional
+8053,non functional
+1734,non functional
+9396,non functional
+1469,functional
+13009,non functional
+9816,functional
+2673,functional
+10713,functional
+12985,functional
+2226,functional
+878,functional
+9861,non functional
+11578,functional
+13731,functional
+1944,functional
+4613,non functional
+10954,functional
+1006,functional
+2083,functional
+14802,functional
+6901,functional
+9673,functional
+7139,functional
+2026,functional
+2324,non functional
+11806,non functional
+6155,functional
+1722,non functional
+6299,functional
+2061,non functional
+4170,non functional
+32,functional
+3688,non functional
+2149,non functional
+14437,non functional
+1326,non functional
+6765,functional
+1129,functional
+9743,functional needs repair
+1650,functional
+6792,functional
+10038,non functional
+241,non functional
+2162,non functional
+1191,functional
+13524,functional
+3247,functional
+9554,functional
+2042,functional
+540,functional
+3429,non functional
+10512,functional
+6143,functional
+8503,functional
+12994,functional
+11372,non functional
+5300,functional
+14000,non functional
+12293,functional
+10348,functional
+2594,functional
+13565,functional
+14728,non functional
+9053,functional
+14719,functional
+1242,functional
+3800,functional
+2087,functional needs repair
+7837,non functional
+1584,non functional
+6558,functional
+2614,functional
+8423,functional
+10824,non functional
+3150,functional
+4374,functional
+14303,non functional
+14800,functional
+14526,functional
+1281,non functional
+6161,functional needs repair
+4647,non functional
+10321,functional
+2582,non functional
+14162,functional
+6127,functional
+14179,functional needs repair
+13983,functional
+12978,non functional
+6600,functional
+12759,functional
+12195,functional
+5909,functional
+14250,functional
+1548,functional
+7296,non functional
+3391,non functional
+2831,functional
+13131,functional
+6019,functional
+3241,functional
+5651,non functional
+7663,functional
+511,functional
+11307,functional
+14231,functional
+3870,functional
+5061,functional
+3642,functional
+3057,non functional
+989,functional
+3418,functional
+7945,non functional
+4503,functional
+7288,functional
+12369,non functional
+11362,functional needs repair
+1219,functional
+5709,functional
+328,functional
+6172,functional
+9542,functional
+12738,functional
+5201,functional
+1537,functional
+118,functional
+3897,functional
+7071,non functional
+776,non functional
+8391,functional
+3878,functional
+9179,functional
+8521,non functional
+12221,functional needs repair
+8245,functional
+13330,functional
+11890,functional
+6702,functional
+4530,non functional
+10305,non functional
+7040,functional
+9735,functional
+9529,functional
+6493,functional
+4119,functional needs repair
+5422,non functional
+187,non functional
+43,non functional
+8949,functional needs repair
+10792,non functional
+14754,functional
+7779,non functional
+2019,non functional
+5034,functional
+12691,functional
+2527,functional
+4425,functional
+13217,functional
+14617,functional
+5083,functional needs repair
+10564,functional
+12062,functional
+10768,functional
+4788,non functional
+8963,functional
+3328,functional
+12724,non functional
+1571,functional
+1834,functional
+5132,functional
+5874,functional
+2464,functional
+832,functional
+8017,functional
+14273,functional
+9069,functional
+9331,non functional
+7289,functional
+10692,non functional
+8750,functional
+2381,functional
+9873,non functional
+2764,non functional
+5019,functional
+13433,functional
+4182,functional
+8251,functional
+1536,non functional
+4941,functional
+5391,non functional
+10262,non functional
+1640,non functional
+5082,functional
+7337,non functional
+7699,non functional
+2682,functional
+4204,functional
+5108,functional
+10455,functional
+11488,functional
+6683,functional
+13977,functional
+4572,non functional
+9193,non functional
+11492,non functional
+2854,functional
+2876,functional
+13102,non functional
+7117,functional
+11848,non functional
+186,functional
+7790,functional needs repair
+11266,functional
+4945,non functional
+2602,functional
+2396,functional needs repair
+3704,functional
+7488,functional
+7217,non functional
+4373,functional
+10719,functional
+14774,non functional
+4004,functional
+1257,functional needs repair
+3763,non functional
+7338,non functional
+5852,non functional
+2297,functional
+10462,non functional
+10854,functional
+7549,functional
+9698,non functional
+14309,non functional
+10387,functional
+493,functional
+1099,functional
+11605,functional
+8727,functional
+12162,functional
+11428,non functional
+9371,non functional
+5414,functional
+9689,non functional
+9056,functional
+10337,functional needs repair
+2912,functional
+14306,non functional
+11718,non functional
+5104,functional
+7597,non functional
+4976,functional
+2132,non functional
+6518,non functional
+1566,functional
+2606,functional
+4272,functional
+8764,functional
+14281,non functional
+12332,non functional
+3378,non functional
+8337,functional
+11451,functional
+10423,non functional
+7645,functional
+1483,non functional
+11985,functional
+8722,functional
+10896,functional needs repair
+4562,non functional
+1434,functional
+8775,functional
+8658,functional
+7076,non functional
+11010,functional
+741,functional
+5947,functional
+6821,functional
+8292,functional
+96,functional
+14557,functional
+6126,functional
+3628,functional
+11910,non functional
+9047,non functional
+4318,functional
+14502,functional
+13081,functional
+2481,functional
+12576,functional
+1717,functional
+1818,functional
+5306,functional
+9730,functional
+12981,functional
+7030,functional
+3385,functional
+7846,functional
+12666,functional
+6010,functional
+5679,non functional
+7160,non functional
+2951,functional
+3006,non functional
+13051,functional
+2766,functional
+14663,non functional
+7878,non functional
+6675,non functional
+13241,non functional
+1796,functional
+5558,non functional
+52,functional
+7866,non functional
+5275,functional
+12524,functional
+4410,non functional
+8206,functional
+1659,functional
+14452,functional
+82,functional
+9772,non functional
+6987,non functional
+13535,functional
+759,non functional
+8930,functional
+1907,functional
+6020,functional
+14398,non functional
+3966,functional
+13142,non functional
+2049,functional
+2941,functional
+1335,functional
+4456,functional
+4726,functional
+5944,functional
+12634,non functional
+4088,functional
+9880,functional
+7879,functional
+14435,functional
+12010,non functional
+4928,non functional
+12302,non functional
+13156,non functional
+5495,functional
+9490,non functional
+3881,functional
+4260,functional
+2776,functional
+3479,functional
+2544,functional
+4259,functional
+12730,functional
+12444,functional
+2778,functional
+6612,functional
+6458,functional needs repair
+12077,functional
+7788,functional
+11386,non functional
+3617,non functional
+8632,functional
+3301,functional
+1945,non functional
+12742,non functional
+8977,functional
+2861,functional
+110,functional
+12551,non functional
+6659,non functional
+9007,functional
+13718,non functional
+8018,non functional
+14680,functional
+5393,functional
+9828,functional
+6258,functional
+14525,functional needs repair
+12001,functional
+14292,functional
+5370,non functional
+6454,non functional
+10068,functional
+5064,non functional
+1070,functional
+10855,non functional
+119,non functional
+12124,functional
+11475,functional
+9633,functional
+14079,non functional
+7966,non functional
+4358,non functional
+3670,functional
+11961,functional
+11560,functional
+3401,functional needs repair
+8623,non functional
+6944,functional
+12949,functional
+5823,functional
+11938,non functional
+5832,functional
+10185,non functional
+7804,non functional
+6104,functional
+6359,functional
+8124,non functional
+7929,functional
+14,functional
+13034,functional
+12395,functional
+1617,functional
+14616,functional
+4295,non functional
+3125,non functional
+14462,non functional
+6890,functional needs repair
+6649,non functional
+13063,functional
+8505,functional
+6729,functional needs repair
+10052,non functional
+5213,non functional
+4961,non functional
+13150,functional
+3893,functional
+12474,functional
+28,functional
+6832,functional
+4145,non functional
+6364,functional
+11315,functional
+14731,non functional
+8964,non functional
+2728,functional
+4640,functional
+7194,non functional
+14676,functional needs repair
+11235,non functional
+12874,functional
+1090,functional
+14065,functional
+6605,non functional
+10108,functional
+2787,functional
+10497,functional
+1798,functional
+1201,functional
+9929,functional
+2050,functional
+5460,functional needs repair
+14276,functional
+14720,functional
+1008,functional
+9491,functional
+8917,non functional
+6892,functional needs repair
+10145,functional
+11626,functional
+6608,functional
+1411,functional
+1869,functional
+1027,functional
+3091,functional
+13223,non functional
+9194,functional
+3645,non functional
+14717,functional
+9716,functional
+1625,non functional
+8717,non functional
+12484,functional
+2279,non functional
+1018,functional
+1136,non functional
+3014,functional needs repair
+4034,functional
+9571,non functional
+7013,functional
+12194,non functional
+6183,non functional
+12712,functional
+7606,non functional
+10062,functional
+14382,non functional
+3624,functional
+1871,functional
+6935,functional
+10516,functional
+4931,functional
+4884,functional
+6060,functional
+12585,non functional
+11874,functional
+8879,functional
+5801,functional needs repair
+3000,functional
+749,functional needs repair
+14833,functional
+7039,functional
+9920,functional
+11894,non functional
+6420,functional
+11411,functional
+9484,functional
+2250,functional
+8273,functional needs repair
+1197,non functional
+3240,functional
+7737,functional
+2163,non functional
+4477,functional
+12545,functional
+3468,functional
+1917,functional
+10252,functional
+7340,functional
+8886,functional
+3507,functional
+10772,non functional
+9938,functional
+4659,functional
+5750,non functional
+5554,functional
+13843,functional needs repair
+11831,functional
+6916,functional
+9587,functional
+7675,functional
+387,functional
+10856,non functional
+7632,functional
+2740,non functional
+14034,non functional
+13702,functional
+13754,non functional
+5222,functional
+3082,non functional
+649,non functional
+13308,functional
+12640,functional
+7450,functional
+8472,functional
+9172,functional needs repair
+12648,functional
+2695,functional
+7722,non functional
+4188,non functional
+6260,non functional
+13058,functional
+8430,functional
+14480,non functional
+8257,functional
+2463,functional
+8399,functional
+13470,functional
+7263,functional
+8432,functional
+9897,non functional
+12166,functional
+10647,functional
+8475,functional
+2495,non functional
+10988,functional
+1040,non functional
+10249,functional
+3237,non functional
+10080,non functional
+1916,functional
+10904,non functional
+68,functional
+7143,functional
+11549,non functional
+11771,functional
+1792,non functional
+4140,functional
+1511,functional
+5530,non functional
+2362,functional
+8590,functional
+13725,non functional
+3500,non functional
+4916,functional
+2416,functional
+537,functional
+2498,non functional
+9666,functional
+4377,functional
+14042,functional
+3380,functional
+860,functional
+8983,non functional
+2574,functional
+522,functional
+14272,functional
+9374,non functional
+5381,functional
+7429,functional
+10799,non functional
+6625,functional
+1812,non functional
+12193,functional
+2931,functional
+1809,functional
+3564,non functional
+8180,functional
+714,functional
+483,functional
+4698,non functional
+3,non functional
+4172,non functional
+12340,non functional
+10239,functional
+378,functional
+10687,functional
+445,functional
+12550,functional
+11148,functional
+2855,functional
+4101,functional
+13538,non functional
+2027,non functional
+12698,functional
+3528,functional
+4355,non functional
+1325,non functional
+8602,non functional
+6652,non functional
+10404,functional
+10846,functional
+14005,non functional
+2231,non functional
+3212,non functional
+12825,functional
+634,functional
+1333,functional
+3243,non functional
+6496,functional
+12425,non functional
+13514,functional
+9403,functional
+13341,functional
+13764,non functional
+11850,functional
+2532,non functional
+11,non functional
+11216,functional
+11470,functional
+8035,non functional
+9219,functional
+8713,functional
+14341,functional
+7841,functional
+12109,functional
+598,non functional
+5681,non functional
+8041,functional
+8487,non functional
+11059,functional
+2125,functional
+711,non functional
+5754,non functional
+2439,functional
+6148,non functional
+11724,non functional
+10027,non functional
+13402,functional needs repair
+6584,functional
+12728,non functional
+797,functional
+12555,non functional
+6168,functional
+3362,functional
+6232,non functional
+2677,non functional
+3435,functional
+9514,functional
+8419,functional
+13062,functional
+12627,functional
+7724,functional
+3857,functional
+1840,functional
+4228,functional
+11618,functional
+5123,functional
+11021,functional
+1603,functional
+11242,non functional
+7949,functional
+6688,functional
+14797,non functional
+451,non functional
+6614,functional
+12763,functional
+6961,non functional
+3041,functional needs repair
+5865,non functional
+11821,non functional
+11480,functional needs repair
+11572,functional
+8934,functional
+4762,non functional
+13930,functional
+5382,functional
+8637,non functional
+453,functional
+5466,non functional
+5263,non functional
+12920,functional
+2730,functional
+622,functional
+10541,non functional
+5770,functional
+9766,functional
+14107,functional
+3365,functional
+8126,non functional
+12252,non functional
+4378,functional
+13114,functional
+3005,functional
+6634,functional
+6960,functional
+4280,functional
+2275,functional
+9041,functional
+5995,functional
+2339,non functional
+8506,non functional
+7951,functional
+4953,non functional
+6448,functional
+10645,functional
+1366,non functional
+6840,non functional
+2800,functional
+678,non functional
+2485,functional
+12304,functional
+8426,functional
+9186,functional
+5186,functional
+564,non functional
+4837,non functional
+12178,functional
+6341,functional
+1114,non functional
+11777,functional
+5635,non functional
+2358,functional
+8103,non functional
+8771,functional needs repair
+1170,functional
+2218,non functional
+1033,functional
+2636,non functional
+8563,non functional
+11272,non functional
+12402,functional
+2469,non functional
+9786,non functional
+13317,functional
+8213,functional
+11979,non functional
+245,non functional
+14347,functional
+12142,functional
+7806,non functional
+4301,non functional
+450,non functional
+14142,functional
+9044,non functional
+5732,functional
+14307,non functional
+704,functional
+10927,functional
+12228,functional
+3197,non functional
+3789,non functional
+4780,functional
+13069,non functional
+5096,non functional
+1060,functional
+5999,non functional
+7395,functional
+1012,functional
+8738,non functional
+3089,non functional
+8344,non functional
+14218,functional
+3333,non functional
+2251,functional
+12882,functional
+5563,non functional
+13271,functional
+9120,non functional
+11123,functional
+14735,functional needs repair
+6113,functional
+9297,functional
+8144,non functional
+13522,functional
+9757,non functional
+5333,functional
+14697,functional
+7747,non functional
+11145,functional
+1296,non functional
+7532,functional
+1531,non functional
+3496,functional
+5007,functional
+417,functional
+2350,functional
+362,functional
+8463,non functional
+1750,functional
+8479,non functional
+6891,functional
+3040,non functional
+4443,functional
+3782,functional
+12715,functional
+6436,non functional
+8001,functional
+2405,functional
+795,non functional
+9104,non functional
+1396,functional
+14323,non functional
+4995,functional
+14399,non functional
+8036,non functional
+5416,functional
+8645,functional
+13215,non functional
+10684,functional
+4009,functional
+4281,functional
+2341,non functional
+5598,functional
+12760,functional
+6764,non functional
+3432,functional
+7886,non functional
+10665,functional
+3124,functional
+10336,functional
+1994,non functional
+27,non functional
+4084,functional
+8135,non functional
+7483,functional
+7345,non functional
+14385,non functional
+8960,functional
+880,functional
+5599,non functional
+6798,functional
+14467,functional
+494,functional
+8706,functional
+3629,functional
+6129,non functional
+3587,functional
+721,non functional
+4173,non functional
+428,non functional
+4263,non functional
+4480,functional
+14535,non functional
+2815,non functional
+14068,functional
+3080,functional
+8108,functional
+11268,non functional
+12218,functional
+11089,functional
+7980,non functional
+8729,functional
+14267,functional
+2657,non functional
+10118,functional
+10043,non functional
+6083,functional
+2077,non functional
+4484,functional
+7085,functional
+13385,functional
+6152,functional
+4986,non functional
+4842,non functional
+7766,non functional
+5873,non functional
+13715,non functional
+10667,functional
+8908,non functional
+8327,non functional
+10044,functional
+9592,functional
+13129,non functional
+3660,functional
+7384,functional needs repair
+884,functional
+7614,functional
+5887,functional
+3195,functional
+11839,non functional
+13559,non functional
+14685,functional
+11930,non functional
+1037,functional needs repair
+9299,non functional
+12684,functional
+9953,non functional
+12345,non functional
+13863,functional
+12452,non functional
+5489,functional
+621,functional needs repair
+653,non functional
+10898,non functional
+302,non functional
+4912,functional
+3781,functional
+10155,functional
+14745,functional needs repair
+7965,functional
+3911,functional
+11222,functional
+8961,functional
+5277,functional
+12421,functional
+1317,non functional
+7210,functional
+5274,non functional
+4536,functional
+4569,functional
+4765,non functional
+5942,functional
+7708,functional
+13792,functional
+1017,non functional
+2177,functional
+547,functional
+3739,functional
+9612,functional
+3714,functional
+12329,non functional
+10873,functional
+929,functional
+10944,functional
+6288,non functional
+13502,functional needs repair
+12579,functional
+10402,functional
