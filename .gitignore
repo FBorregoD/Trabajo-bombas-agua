@@ -1,6 +1,11 @@
 PPTX/
 notebooks/
 __pycache__/
+datos2/
+results/
+modelos_sklearn.ipynb
+
+
 
 
 
